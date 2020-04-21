@@ -1,0 +1,78 @@
+#EXTM3U
+#EXTINF:-1, group-title=”SPORT TV”,IraqiaSp
+http://95.170.215.109/hls/m3u8/IraqiaSp-Backup.m3u8
+#EXTINF:-1, group-title=”SPORT TV”,BahrainSport
+http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist_w1519986140.m3u8
+#EXTINF:-1, group-title=”SPORT TV”,DubaiSport 1
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1, group-title=”SPORT TV”,DubaiSport 2
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1300000.m3u8?
+#EXTINF:-1, group-title=”SPORT TV”,DubaiSport 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8?
+#EXTINF:-1, group-title=”SPORT TV”,KSA Sport 1
+https://edge-1192-ch-gv.filmon.com/live/1781.low.stream/playlist.m3u8?
+#EXTINF:-1, group-title=”SPORT TV”,KSA Sport 2
+https://edge-1192-ch-gv.filmon.com/live/1778.high.stream/playlist.m3u8?
+#EXTINF:-1, group-title=”SPORT TV”,Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b850000.m3u8
+#EXTINF:-1, group-title=”SPORT TV”,3 Morocco Sports
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1, group-title=”SPORT TV”,jordan sport
+http://stream.joinvisions.net:1935/jorlive/sport/chunklist_w964261173.m3u8
+#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL KASS 1 (1024×576)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL KASS 2 (1024×576)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL KASS 3 (1024×576)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL KASS 4 (1024×576)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | AL KASS 5 (1024×576)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | DUBAI RACING 1 (1920×1080)
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | DUBAI RACING 2 (1920×1080)
+http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | DUBAI RACING 3 (1920×1080)
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | DUBAI SPORTS 1 (1920×1080)
+http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports/chunklist.m3u8
+#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | DUBAI SPORTS 2 (1920×1080)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8
+#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | DUBAI SPORTS 3 (1920×1080)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8
+#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | KSA SPORTS 1 (1280×720)
+http://95.170.215.107:80/hls/KSA-Sport1-Bakup-M.m3u8
+#EXTINF:-1 group-title=”ARABIC MY HD”,MY HD | KSA SPORTS 2 (1280×720)
+http://95.170.215.107:80/hls/KSA-Sport2-Bakup-M.m3u8
+
+#EXTINF:-1,BEIN SPORTS HD
+http://46.60.1.82:8081/live/hdmib3/playlist.m3u8
+
+#EXTINF:-1 group-title="ARABIC MY HD",MY HD | AL KASS 1 (1024×576)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass1
+#EXTINF:-1 group-title="ARABIC MY HD",MY HD | AL KASS 2 (1024×576)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 group-title="ARABIC MY HD",MY HD | AL KASS 3 (1024×576)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1 group-title="ARABIC MY HD",MY HD | AL KASS 4 (1024×576)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+#EXTINF:-1 group-title="ARABIC MY HD",MY HD | AL KASS 5 (1024×576)
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 , DUBAI SPORTS 1 (1920x1080)
+http://dmitnthvll.cdn.mangomolo.com:80/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?stime=20170514142856&etime=20170521103216&token=0ea7c416582f29d3e6300
+#EXTINF:-1 , DUBAI SPORTS 2 (1920x1080)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 , DUBAI SPORTS 3 (1920x1080)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 , DUBAI SPORTS 4
+http://95.170.215.107/hls/m3u8/Dub-Sport2-Bakup.m3u8
+
+#EXTINF:-1, group-title="ARABIC TV",Abu Dhabi Sport 1 HD
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1&site=elahmad.com
+#EXTINF:-1, group-title="ARABIC TV",Abu Dhabi Sport 2 HD
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports2&site=elahmad.com
+#EXTINF:-1, group-title="ARABIC TV",Abu Dhabi Sport 3 HD
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports3&site=elahmad.com
+#EXTINF:-1, group-title="ARABIC TV",Abu Dhabi Sport 4 HD
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4&site=elahmad.com

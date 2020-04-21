@@ -1,0 +1,114 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="NewsW",▁ ▂ ▄ ▅ ▆☆ NewsW  ☆▆ ▅ ▄ ▂ ▁
+
+#EXTINF:-1 group-title="NewsW",Euro News French
+https://euronews-fr-p11-cdn.hexaglobe.net/17699809771199cb14a68065362d1066/5e85d7a1/euronews/euronews-euronews-website-web-responsive-2/ewnsabrfr_fre.smil/ewnsabrfr_fre_720p33.m3u8
+#EXTINF:-1 group-title="NewsW",Euro News English
+https://euronews-en-b13-cdn.hexaglobe.net/6bc5ac0730146af18c7352e690edf480/5e85d8ba/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_720p33.m3u8
+#EXTINF:-1 group-title="NewsW",Euro News Deutsch
+https://euronews-de-b11-cdn.hexaglobe.net/12f507216dac8359dd89b6be36743c9d/5e85d9ef/euronews/euronews-euronews-website-web-responsive-2/ewnsabrde_ger.smil/ewnsabrde_ger_720p33.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" tvg-country="CA" tvg-url="" group-title="NewsW",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/TNQKahI.png" tvg-country="IR" tvg-url="" group-title="NewsW",Press TV
+https://bozztv.com/36bay2/gin/giniko_presstv_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Rai News 24 IT" tvg-name="Rai News 24 IT" tvg-language="Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Rai_News_24_-_Logo_2013.svg/1280px-Rai_News_24_-_Logo_2013.svg.png" tvg-country="IT" tvg-url="http://195.154.221.171/epg/guideitaly.xml.gz" group-title="NewsW",Rai News 24
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=0000001
+#EXTINF:-1 tvg-id="RT America-US" tvg-name="RT America-US" tvg-language="English" tvg-logo="https://www.rt.com/static/block/touch-icon/apple-touch-icon-144x144-precomposed.png" tvg-country="US" tvg-url="http://epg.streamstv.me/epg/guide-usa.xml.gz" group-title="NewsW",RT America
+https://rt-usa.secure.footprint.net/1105.m3u8
+#EXTINF:-1 tvg-id="Rusiya Al Yaum ARB" tvg-name="Rusiya Al Yaum ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/XYJEasM.png" tvg-country="RU" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="NewsW",RT Arabic
+https://rt-arab.secure.footprint.net/1104.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="" tvg-country="RU" tvg-url="" group-title="NewsW",RT en Español
+http://rt-esp.secure.footprint.net/1102.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/gVedXRh.png" tvg-country="FR" tvg-url="" group-title="NewsW",RT France
+http://rt-france.secure.footprint.net/1107.m3u8
+#EXTINF:-1 tvg-id="RT HD UK" tvg-name="RT HD UK" tvg-language="English" tvg-logo="https://i.imgur.com/ULzpPky.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="NewsW",RT UK
+http://rt-uk.secure.footprint.net/1106.m3u8
+
+#EXTINF:-1 tvg-id="Sky News UK" tvg-name="Sky News UK" tvg-language="English" tvg-logo="https://i.imgur.com/WvNd8yg.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="NewsW",Sky News
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" tvg-country="AU" tvg-url="" group-title="NewsW",Sky News Extra 1
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" tvg-country="AU" tvg-url="" group-title="NewsW",Sky News Extra 2
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/Wl0iGsD.png" tvg-country="AU" tvg-url="" group-title="NewsW",Sky News Extra 3
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/mdNV8tQ.jpg" tvg-country="AU" tvg-url="" group-title="NewsW",Australia Channel
+https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master1280x720.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="NewsW",France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="NewsW",France 24 French
+http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 tvg-id="BBC News UK" tvg-name="BBC News UK" tvg-language="English" tvg-logo="https://i.imgur.com/eNPIQ9f.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="NewsW",BBC World News
+http://51.52.156.22:8888/http/004
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" tvg-country="DE" tvg-url="" group-title="NewsW",DW English
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://pmcdeadline2.files.wordpress.com/2018/10/et-live1-e1541006731547.png" tvg-country="US" tvg-url="" group-title="NewsW",Entertainment Tonight
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="NewsW",FOX News
+https://fncgohls-i.akamaihd.net/hls/live/263399/FNCGOHLSv2/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/nWjAjzy.png" tvg-country="US" tvg-url="" group-title="NewsW",Cheddar
+https://content.uplynk.com/channel/4ee18bd581dc4d3b90303e0cb9beeb0f.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/nWjAjzy.png" tvg-country="US" tvg-url="" group-title="NewsW",Cheddar Big News
+https://live.chdrstatic.com/cbn/primary/1.m3u8
+#EXTINF:-1 tvg-id="Channel NewsAsia" tvg-name="Channel NewsAsia" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/1200px-CNA_new_logo.svg.png" tvg-country="SG" tvg-url="https://freeview.github.io/iptv/epg/tv.xml" group-title="NewsW",CNA HD
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+
+#EXTINF:-1 group-title="NewsW",Sky News English
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bloomberg_News_logo.png" tvg-country="US" tvg-url="" group-title="NewsW",Bloomberg
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" tvg-country="CA" tvg-url="" group-title="NewsW",CBC News Network
+https://cbcnewshd-f.akamaihd.net/i/cbcnews_30@304030/index_2500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" tvg-country="US" tvg-url="" group-title="NewsW",CBN News
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/HbOrvOn.jpg" tvg-country="US" tvg-url="" group-title="NewsW",CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/09/24/0d50a028-008e-4bc3-b644-d37bad126c61/logo-cbsn-boston-1920x1080.jpg" tvg-country="US" tvg-url="" group-title="NewsW",CBS News Boston
+https://dai.google.com/linear/hls/event/26FJK7wRSo6RhPsK70XS_w/master.m3u8?iu=/4128/CBS.BOSTON.OTT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/8647cb8a-7032-435c-a7f9-a00b3eb1c29b/thumbnail/1200x630/1a70218bd337830ec5ce34ab29abaf20/logo-cbsnla-1920x1080-new.jpg" tvg-country="US" tvg-url="" group-title="NewsW",CBS News Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cbsnews2.cbsistatic.com/hub/i/r/2019/06/10/d0b656c8-f79a-4492-946a-68278fcda687/thumbnail/logo-cbsnny-1920x1080-new.jpg" tvg-country="US" tvg-url="" group-title="NewsW",CBS News New York
+https://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8?iu=/4128/CBS.NY.OTT
+
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/c5Yj2to.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="NewsW",CGTN中国环球电视网
+http://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="NewsW",France 24 English+
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:-1 group-title="NewsW",Euro News French SD
+https://euronews-fr-p11-cdn.hexaglobe.net/17699809771199cb14a68065362d1066/5e85d7a1/euronews/euronews-euronews-website-web-responsive-2/ewnsabrfr_fre.smil/ewnsabrfr_fre_576p.m3u8
+#EXTINF:-1 group-title="NewsW",Euro News English SD
+https://euronews-en-b13-cdn.hexaglobe.net/6bc5ac0730146af18c7352e690edf480/5e85d8ba/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_576p.m3u8
+#EXTINF:-1 group-title="NewsW",Euro News Deutsch SD
+https://euronews-de-b11-cdn.hexaglobe.net/12f507216dac8359dd89b6be36743c9d/5e85d9ef/euronews/euronews-euronews-website-web-responsive-2/ewnsabrde_ger.smil/ewnsabrde_ger_576p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bloomberg_News_logo.png" tvg-country="US" tvg-url="" group-title="NewsW",Bloomberg 1080p
+https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/0b4b4ab1-c721-4c4e-af18-aa1dc435cc20:BRU/variant/dd0a1227701dfa2d888d4bd736db2793/bandwidth/3000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bloomberg_News_logo.png" tvg-country="US" tvg-url="" group-title="NewsW",Bloomberg 720p
+https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/0b4b4ab1-c721-4c4e-af18-aa1dc435cc20:BRU/variant/2669df91676be1a76e52d4de25e4f1a5/bandwidth/2400000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bloomberg_News_logo.png" tvg-country="US" tvg-url="" group-title="NewsW",Bloomberg 720p 
+https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/0b4b4ab1-c721-4c4e-af18-aa1dc435cc20:BRU/variant/89b8a4328e4b55858d004b951b6518e1/bandwidth/1500000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Bloomberg_News_logo.png" tvg-country="US" tvg-url="" group-title="NewsW",Bloomberg 360p 
+https://dai.google.com/linear/hls/pa/event/BVlOmFGaTi6NpchccR14yA/stream/0b4b4ab1-c721-4c4e-af18-aa1dc435cc20:BRU/variant/57d36cae786fac8b19a47d4cecd475dc/bandwidth/600000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" tvg-country="US" tvg-url="" group-title="NewsW",CBN News+
+http://bcliveuniv-lh.akamaihd.net:80/i/news_1@194050/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" tvg-country="US" tvg-url="" group-title="NewsW",CBN News++
+http://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_150_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="http://123tvgo.com/wp-content/uploads/2018/08/cbn-news-269x151.png" tvg-country="US" tvg-url="" group-title="NewsW",CBN News+++
+https://bcliveunivsecure-lh.akamaihd.net/i/iptv1_1@500579/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://cbsnews3.cbsistatic.com/hub/i/r/2019/06/21/8647cb8a-7032-435c-a7f9-a00b3eb1c29b/thumbnail/1200x630/1a70218bd337830ec5ce34ab29abaf20/logo-cbsnla-1920x1080-new.jpg" tvg-country="US" tvg-url="" group-title="NewsW",CBS News Los Angeles+
+https://dai.google.com/linear/hls/pa/event/TxSbNMu4R5anKrjV02VOBg/stream/376ccf63-08fb-4349-b509-becf52b5215b:BRU/variant/3b010955da464a7e8e3c4349ef80c469/bandwidth/3072960.m3u8
+
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/c5Yj2to.png" tvg-country="CN" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="NewsW",CGTN中国环球电视网+
+http://live.cgtn.com/500/prog_index.m3u8

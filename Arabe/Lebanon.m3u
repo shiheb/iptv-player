@@ -1,0 +1,80 @@
+
+#EXTM3U
+#EXTINF:-1 group-title="Lebanon",▁ ▂ ▄ ▅ ▆☆ Lebanon ☆▆ ▅ ▄ ▂ ▁
+
+#EXTINF:-1 tvg-id="LBC International ARB" tvg-name="LBC International ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Lebanon",LBC SAT
+http://livecdnh2.tvanywhere.ae/hls/lbc_int/04.m3u8
+
+#EXTINF:-1 tvg-id="LDC ARB" tvg-name="LDC ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/LDC_logo_new.png/93px-LDC_logo_new.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Lebanon",LBC International
+http://95.170.215.109:80/hls/m3u8/LDC-Backup.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://d1k5w7mbrh6vq5.cloudfront.net/images/cache/38/d3/ff/38d3ff8bbb366efe85df293affd5e8f3.PNG" tvg-country="LB" tvg-url="" group-title="Lebanon",Al Jadeed HD
+http://livecdnh3.tvanywhere.ae/hls/jadeed/01.m3u8
+
+#EXTINF:-1 tvg-id="MTV Lebanon ARB" tvg-name="MTV Lebanon ARB" tvg-language="Arabic" tvg-logo="https://www.ares-portal.com/wp-content/uploads/2017/09/plugin.video_.mtvlebanon-1320x743.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Lebanon",MTV Lebanon
+http://livecdnh3.tvanywhere.ae/hls/MTVLbnHD/05.m3u8
+
+#EXTINF:-1 tvg-id="OTV Lebanon ARB" tvg-name="OTV Lebanon ARB" tvg-language="Arabic" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Lebanon",OTV
+http://livecdnh2.tvanywhere.ae/hls/otv_leb/04.m3u8
+
+#EXTINF:-1 tvg-id="Future TV ARB" tvg-name="Future TV ARB" tvg-language="Arabic" tvg-logo="http://futuretvnetwork.com/images/logo.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Lebanon",Future TV
+http://livecdnh2.tvanywhere.ae/hls/future/04.m3u8
+
+#EXTINF:-1 group-title="Lebanon",Hawas-TV
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd_720p.m3u8
+#EXTINF:-1 group-title="Lebanon",Al Aan TV
+http://livecdnh3.tvanywhere.ae/hls/alaantv/04.m3u8
+#EXTINF:-1 tvg-id="NBN ARB" tvg-name="NBN ARB" tvg-language="Arabic" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"  group-title="Lebanon",NBN
+http://livecdnh1.tvanywhere.ae/hls/nbn/index.m3u8
+#EXTINF:-1 tvg-id="Tele Liban ARB" tvg-name="Tele Liban ARB" tvg-language="Arabic" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Lebanon",Tele Liban 576p
+http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/38ad46d994b30fa6aed632fc597ca329.sdp/chunks.m3u8
+#EXTINF:-1 group-title="Lebanon",Charity Tv Lebanon تلفزيون المحبة
+http://185.105.4.236:1935/live/ngrp:livestream_all/chunklist_w947824827_b1628000.m3u8
+#EXTINF:-1 group-title="Lebanon",NOURSAT
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Lebanon",NOURSAT Alshabab
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Lebanon",NOURSAT Alsharik
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Lebanon",NOURSAT EDDES
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Lebanon",NOURSAT Mariam
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Lebanon",NOURSAT MUSIC
+https://svs.itworkscdn.net/nour5satlive/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Lebanon",NOURSAT Spirit
+https://svs.itworkscdn.net/nour6satlive/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.hawacom.tv/android-chrome-256x256.png" tvg-country="LB" tvg-url="" group-title="Lebanon",Hawacom
+http://livecdnh3.tvanywhere.ae/hls/hawacom/04.m3u8
+
+
+#EXTINF:-1 tvg-id="LBC International ARB" tvg-name="LBC International ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/LBC_INTERNATIONAL.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Lebanon",LBC SAT+
+http://livecdnh2.tvanywhere.ae/ss/lbc_int.isml/Manifest?v=
+#EXTINF:-1 group-title="Lebanon",Aljadeed HD+
+http://livecdnh3.tvanywhere.ae/ss/jadeed.isml/Manifest?v=
+#EXTINF:-1 group-title="Lebanon",Aljadeed HD++
+http://livecdnh3.tvanywhere.ae/hls/jadeed/index.m3u8
+#EXTINF:-1 group-title="Lebanon",MTV Lebanon+
+http://livecdnh3.tvanywhere.ae/ss/MTVLbnHD.isml/Manifest?v=
+#EXTINF:-1 tvg-id="OTV Lebanon ARB" tvg-name="OTV Lebanon ARB" tvg-language="Arabic" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Lebanon",OTV+
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist_406p.m3u8
+#EXTINF:-1 tvg-id="OTV Lebanon ARB" tvg-name="OTV Lebanon ARB" tvg-language="Arabic" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Lebanon",OTV++
+https://svs.itworkscdn.net/otvlebanonlive/otv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OTV Lebanon ARB" tvg-name="OTV Lebanon ARB" tvg-language="Arabic" tvg-logo="http://bookback.co/wp-content/uploads/2018/12/OTV-1.jpg" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Lebanon",OTV+++
+http://zona-live-tv.com/streamm/FaceBOOk.com1/ZonaLiveTV/Chann/Arab/OTV.m3u8
+#EXTINF:-1 tvg-id="Future TV ARB" tvg-name="Future TV ARB" tvg-language="Arabic" tvg-logo="http://futuretvnetwork.com/images/logo.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Lebanon",Future TV+
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/chunklist_b650000.m3u8
+#EXTINF:-1 tvg-id="Future TV ARB" tvg-name="Future TV ARB" tvg-language="Arabic" tvg-logo="http://futuretvnetwork.com/images/logo.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Lebanon",Future TV++
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/gmswf.m3u8
+#EXTINF:-1 tvg-id="Future TV ARB" tvg-name="Future TV ARB" tvg-language="Arabic" tvg-logo="http://futuretvnetwork.com/images/logo.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Lebanon",Future TV++
+http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+
+#EXTINF:-1 group-title="Lebanon",Al Aan TV+
+http://livecdnh3.tvanywhere.ae/ss/alaantv.isml/Manifest?v=
+#EXTINF:-1 tvg-id="NBN ARB" tvg-name="NBN ARB" tvg-language="Arabic" tvg-logo="https://nbntv.me/wp-content/uploads/2018/07/nbnlogo-f.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"  group-title="Lebanon",NBN
+http://livecdnh1.tvanywhere.ae/hls/nbn/05.m3u8
+#EXTINF:-1 tvg-id="Tele Liban ARB" tvg-name="Tele Liban ARB" tvg-language="Arabic" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Lebanon",Tele Liban 480p
+http://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/tl/cad9e8dcbf3eca0f7c2af160b1913cf4.sdp/chunks.m3u8
+#EXTINF:-1 tvg-id="Tele Liban ARB" tvg-name="Tele Liban ARB" tvg-language="Arabic" tvg-logo="http://www.teleliban.com.lb/images/telelogo.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Lebanon",Tele Liban+
+http://cdn.catiacast.video/tl/38ad46d994b30fa6aed632fc597ca329.sdp/chunks.m3u8

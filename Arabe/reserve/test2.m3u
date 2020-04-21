@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1, group-title="ARABIC TV",Nat Geo Abu Dhabi
+http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/04.m3u8?sd=10&rebase=on
+#EXTINF:-1, group-title="ARABIC TV",Nat Geo Abu Dhabi HD
+http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1, group-title="ARABIC TV",Abu Dhabi
+http://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula&site=elahmad.com
+#EXTINF:-1, group-title="ARABIC TV",Abu Dhabi Drama
+http://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_drama&site=elahmad.com
+#EXTINF:-1, group-title="ARABIC TV",Abu Dhabi Emarat
+http://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8?http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_alemarat&site=elahmad.com
+#EXTINF:-1 group-title="ARABIC MY HD",MY HD | CINEMA HD1
+http://livecdnh1.tvanywhere.ae/hls/cin1/04.m3u8
+#EXTINF:-1 group-title="ARABIC MY HD",MY HD | ART Aflam 1
+http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=476&t=live&f=ts
+#EXTINF:-1 group-title="ARABIC MY HD",MY HD | ART Aflam 2
+http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=475&t=live&f=ts
+#EXTINF:-1 group-title="ARABIC MY HD",MY HD | ART Cinema
+http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=474&t=live&f=ts
+#EXTINF:-1 group-title="ARABIC MY HD",MY HD | ART Hekayat 1
+http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=473&t=live&f=ts
+#EXTINF:-1 group-title="ARABIC MY HD",MY HD | ART Hekayat 2
+http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=472&t=live&f=ts
+#EXTINF:-1 group-title="ARABIC MY HD",MY HD | OSN Ya Hala HD
+http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=425&t=live&f=ts
+#EXTINF:-1 group-title="ARABIC MY HD",MY HD | OSN Ya Hala Al Oula HD
+http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=426&t=live&f=ts
+#EXTINF:-1 group-title="ARABIC MY HD",MY HD | OSN Yahala Cinema HD
+http://app.powerfhd.me/live/sup.php?z=998&u=osmpzewxjq&s=3515815441&id=424&t=live&f=ts

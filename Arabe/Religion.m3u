@@ -1,0 +1,224 @@
+#EXTM3U
+#EXTINF:-1 group-title="Religion",▁▂▃▅▆▇★☀二【« Religion »】二☀★▇▆▅▃▂▁
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/B725yZA.png" tvg-country="SA" tvg-url="" group-title="Religion",Almajd TV
+http://livecdnh3.tvanywhere.ae/hls/majd/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" tvg-country="SA" tvg-url="" group-title="Religion",Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Saudi Sunnah" tvg-name="Saudi Sunnah" tvg-language="Arabic" tvg-logo="https://ewsat.com/img/AL_SUNNAH_NABAWIYAH.png" tvg-country="SA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Religion",Al Sunnah
+http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/QuranTVSA.png" tvg-country="SA" tvg-url="" group-title="Religion",Quran Saudi TV
+https://5b18be6964c2f.streamlock.net/live/_definst_/quran/chunklist_w719637015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lckbSZB.png" tvg-country="SA" tvg-url="" group-title="Religion",Ahl-Alquran TV
+https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/maJ9RAL.png" tvg-country="SA" tvg-url="" group-title="Religion",Al Resalah
+http://livecdnh3.tvanywhere.ae/hls/resalah/04.m3u8
+#EXTINF:-1 tvg-id="Iqraa" tvg-name="Iqraa" tvg-language="Arabic" tvg-logo="https://i.imgur.com/3bug9dU.png" tvg-country="SA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"  group-title="Religion",Iqraa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Iqraa" tvg-name="Iqraa" tvg-language="Arabic" tvg-logo="https://i.imgur.com/3bug9dU.png" tvg-country="SA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"  group-title="Religion",Iqraa Europe Africa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hbC1X9B.png" tvg-country="EG" tvg-url="" group-title="Religion",Al Fath TV
+https://svs.itworkscdn.net/alfatehlive/fatehtv/playlist.m3u8
+#EXTINF:-1 group-title="Religion",Nobel TV
+https://5d39f1ab8ba65.streamlock.net:1935/arabic-test/arabic-test/chunklist_w568620000.m3u8
+#EXTINF:-1 group-title="Religion",Nour El Sham
+http://82.137.248.16:1935/Nour/stream20112018/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/B8kS2rD.jpg" tvg-country="SA" tvg-url="" group-title="Religion",Ayaat TV
+http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/assadissax2.png" tvg-country="MA" tvg-url="" group-title="Religion",Assadissa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/assadissa-avc1_1500000=4-mp4a_130400_qad=1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EiiO5nm.png" tvg-country="BH" tvg-url="" group-title="Religion",Bahrain Quran
+http://185.105.4.106:1935/live/Bahrain%20Quran/chunklist.m3u8?v=1548640033
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.watanegypt.tv/design/home/img/f-logo.png" tvg-country="EG" tvg-url="" group-title="Religion",Watan
+http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Pguy19B.png" tvg-country="IQ" tvg-url="" group-title="Religion",Dua Channel HQ
+https://5e74a9d684b2e.streamlock.net/liveTrans//channel5/chunklist_w1365139156.m3u8
+#EXTINF:-1 group-title="Religion",Keef Quran
+rtmp://82.212.74.2/live//7211?v=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/H7D7dmK.png" tvg-country="OM" tvg-url="" group-title="Religion",Al-Istiqama TV
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ibUfEGr.png" tvg-country="AE" tvg-url="" group-title="Religion",Peace TV
+http://peacetv.api.visionip.tv/live/ASHTTP/peacetv-peacetv-peacetv-english-hsslive-25f-16x9-MB/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/nsxrqta.jpg" tvg-country="AE" tvg-url="" group-title="Religion",Toheed TV
+http://51.158.73.206/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U1ZJ9Av.png" tvg-country="LY" tvg-url="" group-title="Religion",Tanasuh TV
+http://m.live.net.sa:1935/m/tanasuhtv/playlist.m3u8
+#EXTINF:-1 group-title="Religion",AHL AL QURAN TV 
+https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/playlist.m3u8
+#EXTINF:-1 group-title="Religion",IMAM HOSSAIN TV 2
+http://live.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:-1 group-title="Religion",CHANNEL 4 TEEN 
+https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
+#EXTINF:-1 group-title="Religion",WESAL TV 
+http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
+#EXTINF:-1 group-title="Religion",Okrania
+http://91.239.232.114:1935/live/source/chunklist_w1712669127.m3u8
+#EXTINF:-1 group-title="Religion",Al Erth Nabawi
+http://82.212.74.2:8000/live/7307.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C5nT9yi.png" tvg-country="UK" tvg-url="" group-title="Religion",MTA 3
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://kreim-storage.fra1.digitaloceanspaces.com/APP%20Logo%20PNG.png" tvg-country="LB" tvg-url="" group-title="Religion",CharityTV
+http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
+#EXTINF:-1 group-title="Religion",CHARI TV 
+http://185.105.4.236:1935/live/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 group-title="Religion",COPTIC SAT TV
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religion",LOGOS TV 
+http://68.235.60.118:1935/logoschannel.com/logostv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Religion",AL FADY TV
+http://stream.truth-voice.net:1935/FadyLive/FadyLive/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Religion",AL MAGD TV 
+https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Religion",ABN Sat Arabic قناة الأرامية
+http://rtmp1.abnsat.com/hls/arabic.m3u8
+#EXTINF:-1 group-title="Religion",AL KARMA TV 
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xvJw3qt.png" tvg-country="CY" tvg-url="" group-title="Religion",Sat 7 Arabic
+https://unirtmp.tulix.tv/sat7arabic/satarabiclive-web.smil/chunklist_w1635903706_b1000000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xvJw3qt.png" tvg-country="CY" tvg-url="" group-title="Religion",Sat 7 Arabic+
+http://unirtmp.tulix.tv:1935/sat7arabic/satarabiclive-web.smil/chunklist_w1788004706_b400000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6xa14aQ.png" tvg-country="EG" tvg-url="" group-title="Religion",The Kingdom Sat
+https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
+#EXTINF:-1 group-title="Religion",Syriac
+https://streaming.viewsat.eu/viewsatstream12/viewsatstream12.smil/chunklist_w363810933_b900000.m3u8
+#EXTINF:-1 group-title="Religion",قناة الفادى
+http://stream.truth-voice.net:1935/FadyLive/FadyLive/chunklist_w333169971.m3u8
+#EXTINF:-1 group-title="Religion",Christian Youth Channel
+http://media.smc-host.com:1935/cycnow.com/cyc2/chunklist_w258510680.m3u8
+#EXTINF:-1 group-title="Religion",Coptic Sat
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/chunklist_w1421926306_b692000_slar_t64SEQ=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ciMllay.jpg" tvg-country="EG" tvg-url="" group-title="Religion",Aghapy TV
+http://media4.smc-host.com:1935/aghapy.tv/aghapy.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Dy2Eo33.png" tvg-country="SY" tvg-url="" group-title="Religion",RTV Nour TV
+http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_nour
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5VvPLEl.jpg" tvg-country="LB" tvg-url="" group-title="Religion",Nour Al Koddas
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/6yxE1jv.jpg" tvg-country="LB" tvg-url="" group-title="Religion",Nour Al Shabab
+https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/hiAwky4.jpg" tvg-country="LB" tvg-url="" group-title="Religion",Nour Al Sharq
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" tvg-country="LB" tvg-url="" group-title="Religion",Nour Mariam
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/QrwZu4W.png" tvg-country="LB" tvg-url="" group-title="Religion",NourSAT
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA SAT TV" tvg-name="CNA SAT TV" tvg-language="Arabic" tvg-logo="" tvg-country="" tvg-url="" group-title="Religion",CNA SAT TV
+rtmp://str81.creacast.com:80/cna/live.sdp
+#EXTINF:-1 group-title="Religion",AHSAN TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9HocMyE.jpg" tvg-country="EG" tvg-url="" group-title="Religion",Al Hayat
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Al Horreya TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VCfZB73.png" tvg-country="US" tvg-url="" group-title="Religion",Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" tvg-country="IQ" tvg-url="" group-title="Religion",ABNsat
+http://rtmp1.abnsat.com/hls/arabic.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-country="IQ" tvg-url="" group-title="Religion",Imam Hussein TV 2 Arabic
+http://live.imamhossaintv.com/live/ih2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-country="IQ" tvg-url="" group-title="Religion",Imam Hussein TV 2 Arabic
+https://ar.imamhusseintv.com/live/ih201/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.karbala-tv.net/s/img/logo-ktv.png" tvg-country="IQ" tvg-url="" group-title="Religion",Karbala
+https://player-api.new.livestream.com/accounts/11436227/events/3998452/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="Religion",Karbala Live 1
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="Religion",Karbala Live 2
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="Religion",Karbala Live 3
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="Religion",Karbala Live 4
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="Religion",Karbala Live 5
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot5/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="Religion",Karbala Live 6
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot6/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/vn9jvdV.png tvg-country="SD" tvg-url="" group-title="Religion",Africa TV2
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/vn9jvdV.png" tvg-country="SD" tvg-url="" group-title="Religion",Africa TV3
+http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="IQ" tvg-url="" group-title="Religion",Hidayat TV
+https://5928f90056f31.streamlock.net/hidayat-live/hidayat/chunklist_w2120813880.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Religion",سورة البقرة بصوت العفاسي
+https://server8.mp3quran.net/afs/002.mp3
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/QuranTVSA.png" tvg-country="SA" tvg-url="" group-title="Religion",Quran Saudi TV+
+http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/QuranTVSA.png" tvg-country="SA" tvg-url="" group-title="Religion",Quran Saudi TV++
+https://streamer-1.toffeelive.com/live/quran_tv_576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/QuranTVSA.png" tvg-country="SA" tvg-url="" group-title="Religion",Quran Saudi TV+++
+http://m.live.net.sa:1935/live/quran/chunklist_w994500087.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/QuranTVSA.png" tvg-country="SA" tvg-url="" group-title="Religion",Quran Saudi TV++++
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" tvg-country="SA" tvg-url="" group-title="Religion",Makkah TV+
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5p2yUBb.png" tvg-country="SA" tvg-url="" group-title="Religion",Makkah TV++
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w966623075.m3u8
+#EXTINF:-1 tvg-id="Iqraa" tvg-name="Iqraa" tvg-language="Arabic" tvg-logo="https://i.imgur.com/3bug9dU.png" tvg-country="SA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"  group-title="Religion",Iqraa+
+http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=iqraa_arabic
+#EXTINF:-1 tvg-id="Iqraa" tvg-name="Iqraa" tvg-language="Arabic" tvg-logo="https://i.imgur.com/3bug9dU.png" tvg-country="SA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"  group-title="Religion",Iqraa++
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+
+#EXTINF:-1 group-title="Religion",WESAL TV+
+http://live.noorlive.com:1935/wesal/wesal1/chunklist_w423364619.m3u8
+
+#EXTINF:-1 tvg-id="Saudi Sunnah" tvg-name="Saudi Sunnah" tvg-language="Arabic" tvg-logo="https://ewsat.com/img/AL_SUNNAH_NABAWIYAH.png" tvg-country="SA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Religion",Al Sunnah+
+http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
+#EXTINF:-1 tvg-id="Saudi Sunnah" tvg-name="Saudi Sunnah" tvg-language="Arabic" tvg-logo="https://ewsat.com/img/AL_SUNNAH_NABAWIYAH.png" tvg-country="SA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Religion",Al Sunnah++
+http://m.live.net.sa:1935/live/sunnah/chunklist_w364295954.m3u8
+#EXTINF:-1 tvg-id="Saudi Sunnah" tvg-name="Saudi Sunnah" tvg-language="Arabic" tvg-logo="https://ewsat.com/img/AL_SUNNAH_NABAWIYAH.png" tvg-country="SA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Religion",Al Sunnah+++
+http://livecdnh2.tvanywhere.ae/ss/sunnah.isml/Manifest?v=
+#EXTINF:-1 tvg-id="Saudi Sunnah" tvg-name="Saudi Sunnah" tvg-language="Arabic" tvg-logo="https://ewsat.com/img/AL_SUNNAH_NABAWIYAH.png" tvg-country="SA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Religion",Al Sunnah++++
+http://m.live.net.sa:1935/live/sunnah/chunklist_w364295954.m3u8
+#EXTINF:-1 tvg-id="Saudi Sunnah" tvg-name="Saudi Sunnah" tvg-language="Arabic" tvg-logo="https://ewsat.com/img/AL_SUNNAH_NABAWIYAH.png" tvg-country="SA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Religion",Al Sunnah+++++
+http://livecdnh2.tvanywhere.ae/hls/sunnah/04.m3u8
+#EXTINF:-1 tvg-id="Saudi Sunnah" tvg-name="Saudi Sunnah" tvg-language="Arabic" tvg-logo="https://ewsat.com/img/AL_SUNNAH_NABAWIYAH.png" tvg-country="SA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Religion",Al Sunnah++++++
+https://streamer-1.toffeelive.com/live/sunnah_tv_576/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X1LW4jB.png" tvg-country="SA" tvg-url="" group-title="Religion",Ayaat TV+
+http://m.live.net.sa:1935/live/ayat/chunklist_w1037702575.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X1LW4jB.png" tvg-country="SA" tvg-url="" group-title="Religion",Ayaat TV++
+http://m.live.net.sa:1935/live/ayat/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Dy2Eo33.png" tvg-country="SY" tvg-url="" group-title="Religion",RTV Nour TV+
+http://82.137.248.16:1935/Nour/stream31122019/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C5nT9yi.png" tvg-country="UK" tvg-url="" group-title="Religion",MTA 3+
+http://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_1700_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/C5nT9yi.png" tvg-country="UK" tvg-url="" group-title="Religion",MTA 3+
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/index_3000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="Al Horreya TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VCfZB73.png" tvg-country="US" tvg-url="" group-title="Religion",Al Horreya TV+
+http://media.smc-host.com:1935/alhorreya.tv/_definst_mp4:alhorreya3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Horreya TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VCfZB73.png" tvg-country="US" tvg-url="" group-title="Religion",Al Horreya TV++
+http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CNA SAT TV" tvg-name="CNA SAT TV" tvg-language="Arabic" tvg-logo="" tvg-country="" tvg-url="" group-title="Religion",CNA SAT TV+
+http://live.creacast.com/cna/smil:cna.smil/chunklist_w33103633_b864000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9HocMyE.jpg" tvg-country="EG" tvg-url="" group-title="Religion",Al Hayat+
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ciMllay.jpg" tvg-country="EG" tvg-url="" group-title="Religion",Aghapy TV+
+http://46.105.112.176:1935/aghapy.tv/aghapy.smil/chunklist_w1857611052_b1400000_slar_t64SEQ=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ciMllay.jpg" tvg-country="EG" tvg-url="" group-title="Religion",Aghapy TV++
+http://68.235.60.118:1935/aghapy.tv/aghapy.smil/chunklist_w1321939483_b1400000_slar_t64SEQ=.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ciMllay.jpg" tvg-country="EG" tvg-url="" group-title="Religion",Aghapy TV+++
+http://media4.smc-host.com:1935/aghapy.tv/aghapy.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/vn9jvdV.png" tvg-country="SD" tvg-url="" group-title="Religion",Africa TV2+
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/vn9jvdV.png" tvg-country="SD" tvg-url="" group-title="Religion",Africa TV3+
+http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X1LW4jB.png" tvg-country="SA" tvg-url="" group-title="Religion",Ayaat TV+
+http://m.live.net.sa:1935/live/ayat/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Pguy19B.png" tvg-country="IQ" tvg-url="" group-title="Religion",Dua Channel MQ
+https://5e74a9d684b2e.streamlock.net/liveTrans//channel5/chunklist_w96345347.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Pguy19B.png" tvg-country="IQ" tvg-url="" group-title="Religion",Dua Channel LQ
+https://5e74a9d684b2e.streamlock.net/liveTrans//channel5/chunklist_w1102475539.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="IQ" tvg-url="" group-title="Religion",Hidayat TV+
+https://5928f90056f31.streamlock.net/hidayat-live/hidayat/chunklist_w226995875.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/assadissax2.png" tvg-country="MA" tvg-url="" group-title="Religion",Assadissa+
+http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8

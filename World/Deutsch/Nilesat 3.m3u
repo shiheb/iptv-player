@@ -1,0 +1,98 @@
+#EXTM3U
+
+#EXTINF:-1 ,de:ARD
+http://daserstelive-lh.akamaihd.net/i/daserste_de@38086/index_7_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,de:BR HD
+https://br_hdslive-f.akamaihd.net/i/bfssued_germany@119890/index_3776_av-p.m3u8?
+#EXTINF:-1 ,de:HR
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8
+#EXTINF:-1 ,DE-Allgau-TV+
+http://tvallgaeu.iptv-playoutcenter.de:1935/tvallgaeu/tvallgaeu.stream_2/chunklist_w2042767982.m3u8
+#EXTINF:-1 ,DE-Baden-TV+
+http://badentv-stream2.siebnich.info/rtplive/btv.stream/chunklist_w555673922.m3u8
+#EXTINF:-1 ,Campus-TV-Magdeburg+
+http://62.113.210.250/medienasa-live/ok-wernigerode_high/chunklist_w937425968.m3u8?bitrate=800
+#EXTINF:-1 ,DE-Das-Erste+
+http://daserstelive-lh.akamaihd.net/i/daserste_int@38088/index_2692_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,DE-Deutsche-Welle+
+http://dwstream52-lh.akamaihd.net/i/dwstream52_live@500528/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,DE-Franken-Fernsehen+
+http://frankentv.iptv-playoutcenter.de:1935/frankentv/frankentv.stream_1/chunklist_w160345619.m3u8
+#EXTINF:-1 ,DE-Folx-TV+
+http://46.101.244.86:8081/folx-abr/live-abr/fle/fle1/chunks.m3u8
+#EXTINF:-1 ,DE-HR-Fernsehen+
+http://livestream-1.hr.de/i/hr_fernsehen@75910/index_3584_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,DE-Isar-TV+
+http://isar-tv.iptv-playoutcenter.de:1935/isar-tv/isar-tv.stream_1/playlist.m3u8
+#EXTINF:-1 ,DE-MDF.1+
+http://62.113.210.250/medienasa-live/mdf1_high/chunklist_w735071599.m3u8
+#EXTINF:-1 ,DE-Munchen-TV+
+http://muenchentv.iptv-playoutcenter.de:1935/muenchentv/muenchentv.stream_2/chunklist_w984595760.m3u8
+#EXTINF:-1 ,DE-Noa-4-Norderstedt+
+http://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
+#EXTINF:-1 ,DE-Noa-4-Hamburg+
+http://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
+#EXTINF:-1 ,DE-Oberpfalz-TV+
+http://oberpfalztv.iptv-playoutcenter.de:1935/oberpfalztv/oberpfalztv.stream_1/chunklist_w793481164.m3u8
+#EXTINF:-1 ,DE-Offener-Kanal-Magdeburg+
+http://62.113.210.250/medienasa-live/ok-magdeburg_high/chunklist_w371875391.m3u8?bitrate=800
+#EXTINF:-1 ,DE-RFO+
+http://rfo.iptv-playoutcenter.de:1935/rfo/rfo.stream_2/chunklist_w2048560548.m3u8
+#EXTINF:-1 ,DE-tagesschau24+
+http://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,DE-Telebasel+
+http://xapp510394368c1000199.f.l.z.lb.core-cdn.net/10096xtelebase/ios_500/chunklist_w210250868.m3u8
+#EXTINF:-1 ,DE-TVA-Ostbayern+
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/chunklist_w1009778014.m3u8
+#EXTINF:-1 ,DE-TV-Oberfranken+
+http://tvoberfranken.iptv-playoutcenter.de:1935/tvoberfranken/tvoberfranken.stream_1/chunklist_w751782099.m3u8
+#EXTINF:-1 ,DE-Tirol-TV+
+http://lb.hd-livestream.de:1935/live/TirolTV/chunklist_w516897777.m3u8
+#EXTINF:-1 ,EN: DW
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,EN: SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1 ,EN: BLOOMBERG
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1 ,NL:go tv
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w602153100.m3u8
+#EXTINF:-1 ,NL: HK13 TV
+http://mtxstr001.matrixdata.nl/live/hk13/chunklist_w2017024907.m3u8
+#EXTINF:-1 ,NL:OMAROEB WEST
+http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/chunklist_b4227072.m3u8
+#EXTINF:-1 ,NL:omropfryslan
+http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/2000/prog_index.m3u8
+#EXTINF:-1 ,NL:omropfryslan+
+http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/400/prog_index.m3u8
+#EXTINF:-1 ,NL:RTV Drenthe
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1 ,SW:NORWAY
+http://bgo1.cdn.s3m.no/fs/live/live/chunklist.m3u8
+#EXTINF:-1 ,SW:kanal10
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/chunklist_w1523238254.m3u8
+#EXTINF:-1 ,SW:kkr
+http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8
+#EXTINF:-1 ,SW: OPPNA KANALEN
+http://83.140.64.214/edge/_451iw2h_/451iw2h/chunklist_w348058882.m3u8
+#EXTINF:-1 ,SW:STORTINGET
+http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8
+#EXTINF:-1 ,FR:TV 5+
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+#EXTINF:-1 ,FR: Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+#EXTINF:-1 ,FR: VOSGES TV
+http://vosgestv.hdr-tv.com/live/vosgestv/livestream/chunklist_w1024246816.m3u8
+#EXTINF:-1 ,FR:TRACE MZIKI
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/5/prog_index.m3u8
+#EXTINF:-1 ,FR:IL TV
+http://live.creacast.com/iltv/smil:iltv.smil/chunklist_w1664108633_b1096000.m3u8
+#EXTINF:-1 ,FR:TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist.m3u8
+#EXTINF:-1 ,FR:KTO TV
+http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,FR:BIP TV
+http://biptv.tv/live/biptvstream_orig/index.m3u8
+#EXTINF:-1 ,FR:LA CHAINE NORMANDE
+http://live.lachainenormande.fr/live/lcn/livestream/chunklist_w600527248.m3u8
+#EXTINF:-1 ,sp:Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on

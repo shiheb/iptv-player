@@ -1,0 +1,117 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Aragon TV ES" tvg-name="Aragon TV ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/j6zrg4O.jpg" tvg-country="ES" tvg-url="http://195.154.221.171/epg/guidespain.xml.gz" group-title="Sport",Aragón Deporte HD
+https://streamer95.server.aranova.cloud/cls/live/aragontv_canal1/index.m3u8?vv=FR&h=HTf4BEaMqIqeF0ChyEVlZQ&e=31353836353231353235&r=4437
+#EXTINF:-1 tvg-id="Rai Sport IT" tvg-name="Rai Sport IT" tvg-language="Italian" tvg-logo="https://i.imgur.com/Lqtz4tS.jpg" tvg-country="IT" tvg-url="http://195.154.221.171/epg/guideitaly.xml.gz" group-title="Sport",Rai Sport
+http://everyrai-lh.akamaihd.net/i/raisportjolly1_1@177967/index_400_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Indonesian" tvg-logo="" tvg-country="ID" tvg-url="" group-title="Sport",All Sports
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/chunklist_b307200_slFa.m3u8
+
+#EXTINF:-1,Good tv
+http://live.streamingfast.net/osmflivech5.m3u8
+#EXTINF:-1,QVC EXTRA UK
+Http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/1/prog_index.m3u8
+#EXTINF:-1,QVC UK
+https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/3/prog_index.m3u8
+
+#EXTINF:-1,Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1,classic arts
+https://classicarts.global.ssl.fastly.net/live/cas/master.m3u8
+#EXTINF:-1,classic arts
+https://classicarts.global.ssl.fastly.net/live/cas/master_550k.m3u8
+#EXTINF:-1,classic arts
+https://classicarts.global.ssl.fastly.net/live/cas/master_1000k.m3u8
+#EXTINF:-1,classic arts
+https://classicarts.global.ssl.fastly.net/live/cas/master_1500k.m3u8
+
+#EXTINF:-1,DITTY TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8
+#EXTINF:-1,DITTY TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/index_1000_a-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,DITTY TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/index_1000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,DITTY TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/index_2000_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,DITTY TV
+https://azroe0x-lh.akamaihd.net/i/test_1@775856/index_3500_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,TLC
+https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
+#EXTINF:-1,NTV
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
+#EXTINF:-1,D.MAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b496000_sltur.m3u8
+#EXTINF:-1,TRT 1
+http://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
+#EXTINF:-1,Cankus
+https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1,TJK TV
+http://tjktv.ercdn.net/tjktv.m3u8
+#EXTINF:-1,TEVE2
+http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
+#EXTINF:-1,KRALTV
+http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
+#EXTINF:-1,Azad
+http://85.132.81.184:8080/atvlive/atv-e1/index.m3u8
+#EXTINF:-1,EURO STAR
+http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
+#EXTINF:-1,Yaban TV
+https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8
+#EXTINF:-1,Star tv
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1,Wow cinema
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1876239733
+#EXTINF:-1,MTV hd
+http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
+#EXTINF:-1,TR: TRT ÇOCUK
+http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
+#EXTINF:-1,TR: HABER
+http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
+#EXTINF:-1,TR: KANALD
+http://212.224.109.109/S2/HLS_LIVE/kanald/500/prog_index.m3u8
+#EXTINF:-1,TR: AVAZ
+http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
+#EXTINF:-1,TR: TÜRK
+http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
+#EXTINF:-1,TR: WORLD
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:-1,TURK:TRTWORLD
+https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/index_1080pp_av-p.m3u8
+#EXTINF:-1,TURK:TRT MÜZİK
+https://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/index_1250p_av-p.m3u8
+#EXTINF:-1,NL:go tv
+http://593aed234297b.streamlock.net:1935/gotvsjoerd/gotvsjoerd/chunklist_w602153100.m3u8
+#EXTINF:-1,NL:DTV_Uden
+http://ms2.mx-cd.net/tv/159-661277/DTV_Uden.smil/chunklist_b1894400_slNLD.m3u8
+#EXTINF:-1,NL: HK13 TV
+http://mtxstr001.matrixdata.nl/live/hk13/chunklist_w2017024907.m3u8
+#EXTINF:-1,NL: Norderney192
+http://server-66.stream-server.nl:1935/Norderney192/Norderney192/chunklist_w1690526334.m3u8
+#EXTINF:-1,NL:OMAROEB ML5
+http://stream.ml5.nl:8081/3ml/livetv/chunks.m3u8
+#EXTINF:-1,NL:OMAROEB WEST
+http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/chunklist_b4227072.m3u8
+#EXTINF:-1,NL:omropfryslan
+http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/2000/prog_index.m3u8
+#EXTINF:-1,NL:omropfryslan+
+http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/400/prog_index.m3u8
+#EXTINF:-1,NL:RTV Drenthe
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
+#EXTINF:-1,NL:Salto A1 TV
+https://media.streamone.net/hlslive/account=AgYIPooZRV0y/livestream=8wJNPcoQbUwW/events(1546427423)/live-audio_1=96000-video=603968.m3u8
+#EXTINF:-1,SW:NORWAY
+http://bgo1.cdn.s3m.no/fs/live/live/chunklist.m3u8
+#EXTINF:-1,SW:kanal10
+http://cdn-kanal10.crossnet.net:1935/kanal10/mp4:mpegts.stream/chunklist_w1523238254.m3u8
+#EXTINF:-1,SW:kkr
+http://stream.kkr.dk/live/kkr/chunklist_w832247479.m3u8
+#EXTINF:-1,SW: OPPNA KANALEN
+http://83.140.64.214/edge/_451iw2h_/451iw2h/chunklist_w348058882.m3u8
+#EXTINF:-1,SW:STORTINGET
+http://194.132.85.39/19333-live0/_definst_/push-stortinget_1/chunklist_w1136072204.m3u8
+#EXTINF:-1 tvg-ID=”” tvg-name=”sp:3/24″ tvg-logo=”” group-title=”spania”,sp:3/24
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+#EXTINF:-1 tvg-ID=”” tvg-name=”sp:Murcia” tvg-logo=”” group-title=”spania”,sp:Murcia
+http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8?sd=10&rebase=on

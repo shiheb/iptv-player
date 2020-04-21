@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1,EN: MyHit
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1,EN: DW
+http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,EN: CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/index_2200_av-p.m3u8
+#EXTINF:-1,EN: SKY NEWS
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,EN: BLOOMBERG
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0,UK_BBC-News
+
+https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2550686c19b051a320ef03fa6a55072cfe4e2868eb447946358f955f59d573c38226578ccb49c284f515e23727997abd4ca6c5a1300b938cbed5e51198fe3f814ba0f6b1c7e826619442a190a91dedb8788b767ac07e877bf320be3da5890358f76b97930981be2f40056212572122b5ff60415ba5ee9a14982c6e19158ec0006e864130befdbae04e8433d223cd2246
+#EXTINF:0,UK_BBC-One
+https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe2550686c19b051a320ef03fa6a55072cfe4e2868eb447946358f955f59d573c38226578ccb49c284f515e23727997abd4ca6c5a1300b938cbed5e51198fe3f814ba0f6b1c7e826619442a190a91dedb8788b767ac07e877bf320be3da5890358f76b97930981be2f40056212572122b5ff60415ba5ee9a14982c6e19158ec0006e864130befdbae04e8433d223cd2246
+
+#EXTINF:0,UK_BBC-Two
+https://edge-1183-ch-gv.filmon.com/live/25.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe13bda695874890ab77c15b95d0cb4735f8e55aab0e87471b8d8a9cb999b54fa4d7fcfc61ee76b2965ed8350cf8fa9a56757fc2391faf4a593348ea162d8017c1357f93fbd29f1e19b1bee9d8036ba1b1e0b1b42ff98b11dbd84ee3efad8281d466213b2a02d8527373118871737e1ead7936c02084bf53c5f0de183e1e373fa5daa436abe40dfe74284565999f7a5da9
+
+#EXTINF:0,UK_BBC-Four
+https://edge-1183-ch-gv.filmon.com/live/103.low.stream/playlist.m3u8?id=0ad5aac39bb13fbedb46efb97c15d539bb2cc689644c2dea0dde77d1c0e6d716160e82bfbfaac6530740155e5437f09a1c1a65a5a37fe21657be61ad8478964b01420ca5e2bc72880fc974586b7a68bb4b53ddb0e61c3e6109d1545a5ec93622246156e3e75acddb8db4b872e64687beed7aa5bd22e846d18c4d42931ba181c30e2b3415c009ba970d003004392bb85b0c455d8f5abd2f7f

@@ -1,0 +1,141 @@
+#EXTM3U
+#EXTINF:-1 group-title="France",FR_TF1
+
+#EXTINF:-1 group-title="France",FR_France2
+
+
+#EXTINF:-1 group-title="France",FR_France3-Rhône-Alpes
+https://edge-1192-ch-gv.filmon.com/live/3890.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe49031307c2325cb783bc6db9299ceadc719699d99a47366077ef089fb1ea36ff179a0634dd496166af7d40ff80ef2a566aceb7ac4bc7e325d558ab8a4ee9bfcd4e5f937860d80a88d5f5a2f1934efd641913953cae6a45e97c10b94d59b06a4d4ef75322ca2810b36a3c528c80e6a687108b0b183ce61c652cbbdceebd5b52d0a9ccf33e2e7933150dd655ee96734336
+
+#EXTINF:-1 group-title="France",FR_France3-Rhône
+https://edge-1192-ch-gv.filmon.com/live/3893.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe4298a341adbd3b57eccff33e6a040e998fb9bf8b81af93b946ef579a5ce8c8810824a0a1860ba8ca8e40229ac797cd8c6d7c7d1e836b355b8acba2ab9a5182d1bacbca9f86af961a4166f4430b4a4312b6abe604565f8317dc28f430becf94472eeb981a6f1794a0d0b5bd50af24c764f1b7d7bb21211edb566e6089242fc2605096acd8527dd96aa5d5397676ba94a7
+
+#EXTINF:-1 group-title="France",FR_FranceÔ
+https://edge-1192-ch-gv.filmon.com/live/3884.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe716d050c7c357b72a3ee6d4dacd8be6c39f4b63c4f911bf657cf2a207325902575688f30fd062874fdd0bcfbba5ed7f5b4e1dd29a8be7fc7ca25a0657bd4820e36d2df109c6cdc6785e6d9f242bb921ba2650c47ca37b8c87dad76ba48873e874f3dbf55683c03645e39ee15f1415d22f853a803d77f7ae85afdaa2bed99ea8155d7b241bea0cfcd24481befa250d2f5
+
+#EXTINF:-1 group-title="France",FR_Alsace 20
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/chunklist_w1089923503_b1415536.m3u8
+#EXTINF:-1 group-title="France",FR_TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w862011981.m3u8
+
+#EXTINF:-1 group-title="France",FR_M6-La-Boutique
+https://m6.live.6cloud.fr//out//u//m6boutique_ott_c_3.m3u8
+
+#EXTINF:-1 group-title="France",FR_TFI-Series
+https://tsf-hls-live-ssl.tf1.fr/tsf/1/hls/live_2328.m3u8
+
+#EXTINF:-1 group-title="France",FR_D5-TV
+https://live.creacast.com/d5tv/smil:d5tv.smil/chunklist_w806917323_b1928000.m3u8
+
+#EXTINF:-1 group-title="France",FR_Euro News French
+https://euronews-fr-p11-cdn.hexaglobe.net/17699809771199cb14a68065362d1066/5e85d7a1/euronews/euronews-euronews-website-web-responsive-2/ewnsabrfr_fre.smil/ewnsabrfr_fre_720p33.m3u8
+#EXTINF:-1 group-title="France",FR_Euro News English
+https://euronews-en-b13-cdn.hexaglobe.net/6bc5ac0730146af18c7352e690edf480/5e85d8ba/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_720p33.m3u8
+
+#EXTINF:-1 group-title="France",FR_Euro News French SD
+https://euronews-fr-p11-cdn.hexaglobe.net/17699809771199cb14a68065362d1066/5e85d7a1/euronews/euronews-euronews-website-web-responsive-2/ewnsabrfr_fre.smil/ewnsabrfr_fre_576p.m3u8
+#EXTINF:-1 group-title="France",FR_Euro News English SD
+https://euronews-en-b13-cdn.hexaglobe.net/6bc5ac0730146af18c7352e690edf480/5e85d8ba/euronews/euronews-euronews-website-web-responsive-2/ewnsabren_eng.smil/ewnsabren_eng_576p.m3u8
+
+#EXTINF:-1 group-title="France",FR_ARTE
+http://artelive-lh.akamaihd.net/i/artelive_fr@344805/master.m3u8
+#EXTINF:-1 group-title="France",FR_ARTE
+https://edge-1192-ch-gv.filmon.com/live/1729.low.stream/playlist.m3u8?id=0ad5aac39bb13fbe62a3d5532c6c59a5cfb86a971f53d2a2637aded3980b401d4b7e846a50c25bb700265f3db190f218185f9a5987246a13f52ba3b27047d2145f1d3c288b4143f87c0566e6a931aafc5394dd298763f01c39ef70ec69ac70e229bcbb3de60e612f933f388e5e2d01d3912981659fab4890c0f47cefa9d9bcbd48a1fbc78621b4b9a78b4564847232fdb9b0e70be817811b
+
+#EXTINF:-1 group-title="France",FR_BFM-Business
+https://bfmbusisecure-i.akamaihd.net/hls/live/265375/876450612001/BFMBusinessS/video_1/video_1.m3u8
+
+#EXTINF:-1 group-title="France",FR_BFM-Paris
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
+#EXTINF:-1 group-title="France",FR_BFM-Paris+
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/master.m3u8
+
+#EXTINF:-1 group-title="France",FR_BFM-Lille
+https://live.creacast.com/grandlilletv/smil:grandlilletv.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="France",FR_TV5 Monde Info
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877-b/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+
+#EXTINF:-1 group-title="France",FR_TV5 Maghreb Orient
+http://livecdnh1.tvanywhere.ae:80/hls/tv5/04.m3u8
+
+#EXTINF:-1 group-title="France",FR_TV5 Pacifique
+https://tv5pacifiqueen-i.akamaihd.net/hls/live/630175-b/tv5pacifiqueen/tv5pacifique_eng_1200.m3u8
+
+#EXTINF:-1 group-title="France",FR_TV5 Style
+https://tv5styleen-i.akamaihd.net/hls/live/631650/tv5styleen/tv5style_eng_1200.m3u8
+
+#EXTINF:-1 group-title="France",FR_TV7 Colmar
+http://tv7.hdr-tv.com/live/tv7/livestream/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",FR_Bip TV
+https://biptv.tv/live/biptvstream_orig/index.m3u8
+
+#EXTINF:-1 group-title="Music",FR_DBM
+https://dbmtv.vedge.infomaniak.com/livecast/smil:dbmtv.smil/manifest.m3u8
+
+#EXTINF:-1 group-title="France",FR_TRACE MZIKI
+http://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/5/prog_index.m3u8
+
+#EXTINF:-1 group-title="Music",FR_Clubbing TV
+https://livetvhooq.akamaized.net/923e04bf28d6488e85831094a2cfc33d/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1574859145~exp=9007200829600136~acl=/923e04bf28d6488e85831094a2cfc33d/*/profile_2/chunklist.m3u8*~hmac=f08709f141d2907969261ab7dc1b638b736757339dffbc26332eccee434e6654
+
+#EXTINF:-1 group-title="France",FR_TV 5+
+http://v3plusinfo247hls-i.akamaihd.net/hls/live/218877/v3plusinfo247hls/v3plusinfo247hls_1_1.m3u8
+
+#EXTINF:-1 group-title="France",FR_Francophonie
+http://mv2.tvfrancophonie.org/live/Stream1/media_b776739_w671289549.m3u8
+
+#EXTINF:-1 group-title="France",FR_VOSGES TV
+http://vosgestv.hdr-tv.com/live/vosgestv/livestream/chunklist_w1024246816.m3u8
+
+#EXTINF:-1 group-title="France",FR_My Comedy
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/chunklist_w1020194328_b1928000.m3u8
+
+#EXTINF:-1 group-title="France",FR_IL TV
+http://live.creacast.com/iltv/smil:iltv.smil/chunklist_w1664108633_b1096000.m3u8
+
+#EXTINF:-1 group-title="France",FR_Alsace20
+http://live.alsace20.fr:1935/live/alsace20/ngrp:alsace20_all/chunklist_w652945123_b3211264.m3u8
+
+#EXTINF:-1 group-title="France",FR_Alsace20+
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+
+#EXTINF:-1 group-title="France",FR_TVPI
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist.m3u8
+
+#EXTINF:-1 group-title="France",FR_TVPI+
+http://streamcast.oc3n.net:1935/TVPI/myStream700.sdp/chunklist_w595309586.m3u8
+
+#EXTINF:-1 group-title="France",FR_KTO 
+http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/index_1200_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="France",FR_KTO+
+http://livehdkto-lh.akamaihd.net/i/LiveStream_1@178944/master.m3u8
+
+#EXTINF:-1 group-title="France",FR_TVR
+https://origin1.dvmr.fr/hls/tvr/tvr-800k/index.m3u8
+
+#EXTINF:-1 group-title="France",FR_TV3V
+https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
+
+#EXTINF:-1 group-title="Music",FR_Leeeko
+http://livetvsteam.com:1935/leeeko/leeeko/playlist.m3u8
+
+
+
+
+#EXTINF:-1 group-title="France",FR_Radio Contact
+http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_400_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="France",FR_Radio RMC
+https://rmc2hdslive-lh.akamaihd.net/i/DVMR_RMC@167269/index_150_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 group-title="France",FR_DIEU TV
+http://wzahighwinds.katapy.com/DIEUTVLIVE/smil:dieutv.smil/chunklist_w158654035_b2256000.m3u8
+
+#EXTINF:-1 group-title="France",FR_LA CHAINE NORMANDE
+http://live.lachainenormande.fr/live/lcn/livestream/chunklist_w600527248.m3u8
+
+#EXTINF:-1 group-title="France",FR_GONG TV LOCAL
+http://ec.playmedia.fr/gong-base/live/chunklist_w33486847.m3u8

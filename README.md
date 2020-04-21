@@ -16,12 +16,12 @@ Applications with support of IPTV streams.
 
 ## Tools
 
-### Important Link
-- [IPTV Checker](http://www.elahmad.com/tv/video-player.php) -
+### Playlists
 - [Nilesat Link](https://bit.ly/3bupNK7) - Nilesat
 - [Radio Tunisie](https://bit.ly/3aneSR7) - Radio Tunisie
 
-
+### Important Link
+- [IPTV Checker](http://www.elahmad.com/tv/video-player.php) - http://www.elahmad.com/ M3U Online Player and checker
 - [WebGrab+Plus](http://www.webgrabplus.com/) - Multi-site incremental XMLTV EPG grabber.
 - [IPTV Checker](https://www.npmjs.com/package/iptv-checker) — IPTV playlists checker for Node.js
 - [Streamtest](https://streamtest.in/) - Free and easy to use web based stream tester utility.

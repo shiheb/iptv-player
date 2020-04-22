@@ -119,6 +119,9 @@ http://expressfm.ice.infomaniak.ch/expressfm-64.mp3
 #EXTINF:-1 tvg-name="TN_Mouja-FM" tvg-id="moujafm.com" group-title="TOUNSI" tvg-logo="http://www.moujafm.com/wp-content/uploads/2016/10/12370696_904954332913718_6706752099198653325_o.jpg",TN_Mouja-FM
 http://109.169.76.153:7424/;
 
+#EXTINF:-1 tvg-name="TN_Radio Point" tvg-id="radiopointn.com" group-title="TOUNSI" tvg-logo="http://on.tun-radio.com/files/images/179.png",TN_TN_Radio Point
+http://67.205.99.39:25000/stream.mp3
+
 #EXTINF:-1 tvg-name="TN_Amal" tvg-id="" group-title="TOUNSI" tvg-logo="https://tun-radio.com/files/images/87.png",TN_Amal
 https://stream.tun-radio.com/radio/8060/ml.mp3
 

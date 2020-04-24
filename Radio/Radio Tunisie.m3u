@@ -1,15 +1,15 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="Nessma" tvg-name="Nessma" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" tvg-country="TN" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Tunisia",Nessma TV
+#EXTINF:-1 tvg-id="Nessma" tvg-name="Nessma" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Logo_de_Nessma.png" tvg-country="TN" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="TOUNSI",Nessma TV
 http://livecdnh2.tvanywhere.ae/hls/nessma/04.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cZM2t0P.png" tvg-country="TN" tvg-url="" group-title="Tunisia",Tunisie Immobilier
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cZM2t0P.png" tvg-country="TN" tvg-url="" group-title="TOUNSI",Tunisie Immobilier
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist_w59913614.m3u8
 
-#EXTINF:-1 group-title="Tunisia",Marina TV
+#EXTINF:-1 group-title="TOUNSI",Marina TV
 https://www.radiomarina.tn/wp-content/uploads/2017/11/marina-TV.m3u
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" tvg-country="TN" tvg-url="" group-title="Tunisia",Sahel TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" tvg-country="TN" tvg-url="" group-title="TOUNSI",Sahel TV
 https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w1556140460.m3u8
 
 #EXTINF:-1 tvg-name="TN_IFM" tvg-id="ifm.tn" tvg-logo="https://www.ifm.tn/images/logo.png" group-title="TOUNSI" ,TN_IFM TV

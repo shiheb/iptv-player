@@ -1352,7 +1352,7 @@ http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.wataan.com/uploads/14112016-021101AM.png" tvg-country="LB" tvg-url="" group-title="Kids",Cartoon Network Arabia
 http://95.170.215.109/hls/m3u8/CNArabica-Backup.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png?v=3" tvg-country="LB" tvg-url="" group-title="Kids",Rotana Kids
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png?v=5" tvg-country="LB" tvg-url="" group-title="Kids",Rotana Kids
 https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="TeleToonPlus FR" tvg-name="TeleToonPlus FR" tvg-language="French" tvg-logo="https://i.imgur.com/dtHaTAy.png" group-title="Kids",TéléToon+
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8

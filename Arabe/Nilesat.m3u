@@ -31,6 +31,8 @@ http://livecdnh3.tvanywhere.ae/hls/rotaflam/04.m3u8
 http://livecdnh3.tvanywhere.ae/hls/rotcinema/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/niDVfYR.png" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana Masrya drama
 http://livecdnh3.tvanywhere.ae/hls/rotmas/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png?v=5" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana Comedy
+https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/a23fI0c.png" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana khalijiah
 http://livecdnh3.tvanywhere.ae/hls/rotkhal/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qOrO9PO.jpg" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana Clip
@@ -238,6 +240,8 @@ http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://scontent-cdt1-1.xx.fbcdn.net/v/t1.0-9/28848_376501539093659_1186874896_n.jpg?_nc_cat=101&_nc_sid=85a577&_nc_eui2=AeFh67MN8dVi36uyvw1ZcQemSkWMHWDXhVRKRYwdYNeFVOb8BoCo3Zk6NzmX65CadiNqx6YOKuZGkpzGaAy6QuRx&_nc_ohc=RvMs0HRhfdQAX8YRe1j&_nc_ht=scontent-cdt1-1.xx&oh=2badde1f35c9a80c0822a81667345d65&oe=5EC3927E" tvg-country="EG" tvg-url="" group-title="Movies&Series",TokTok
 http://95.170.215.109/hls/m3u8/TokTok-Backup.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png?v=5" tvg-country="SA" tvg-url="" group-title="Movies&Series",Rotana Comedy
+https://rotana.hibridmedia.com/rotana/comedy_dabr/rotana/comedy_1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="Movies&Series",Cairo Cinema
 http://95.170.215.109:80/hls/m3u8/CairoCine-Backup.m3u8
@@ -356,6 +360,7 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 
 #EXTINF:-1 tvg-id="Dubai TV" tvg-name="Dubai TV" tvg-language="Arabic" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/icons/live/dubaialoula-live1.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="UAE",Dubai TV+
 http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-language="Arabic" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/5e81e67611.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="UAE",Dubai One+
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-language="Arabic" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/5e81e67611.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="UAE",Dubai One++
@@ -709,14 +714,14 @@ https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music",▁ ▂ ▄ ▅ ▆☆ Music ☆▆ ▅ ▄ ▂ ▁
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qOrO9PO.jpg" tvg-country="SA" tvg-url="" group-title="",Rotana Clip
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qOrO9PO.jpg" tvg-country="SA" tvg-url="" group-title="Music",Rotana Clip
 http://livecdnh3.tvanywhere.ae/hls/rotclip/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/N4AyK2U.png" tvg-country="SA" tvg-url="" group-title="Music",Rotana Music
 http://livecdnh3.tvanywhere.ae/hls/rotmusic/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://mazzikagroup.com/wp-content/uploads/2020/03/8-e1576343995678.png" tvg-country="" tvg-url="" group-title="Music",Mazzika
-http://95.170.215.109/hls/m3u8/Mazzika-Backup.m3u8
+http://livecdnh2.tvanywhere.ae/hls/mazzika/04.m3u8
 #EXTINF:-1 tvg-id="Arabica Music" tvg-name="Arabica Music" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8He6Lca.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Music",Arabica Music
-http://95.170.215.109/hls/m3u8/Arabica-Backup.m3u8
+http://livecdnh2.tvanywhere.ae/hls/arabica_music/04.m3u8
 #EXTINF:-1 group-title="Music",MUSIC ALREMAS 
 http://95.170.215.109/hls/m3u8/M-Alremas-Backup.m3u8
 #EXTINF:-1 group-title="Music",WATAR 
@@ -740,9 +745,11 @@ http://95.170.215.109/hls/m3u8/M-Alremas-Backup.m3u8
 #EXTINF:-1 tvg-id="Music Now" tvg-name="Music Now" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KABKzdl.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Music",Music Now
 http://livecdnh1.tvanywhere.ae/hls/music_now/04.m3u8
 #EXTINF:-1 tvg-id="Arabica Music" tvg-name="Arabica Music" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8He6Lca.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Music",Arabica Music+
-http://livecdnh2.tvanywhere.ae/hls/arabica_music/04.m3u8
-#EXTINF:-1 tvg-id="Arabica Music" tvg-name="Arabica Music" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8He6Lca.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Music",Arabica Music++
 http://livecdnh2.tvanywhere.ae/hls/arabica_music/index.m3u8
+#EXTINF:-1 tvg-id="Arabica Music" tvg-name="Arabica Music" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8He6Lca.png" tvg-country="LB" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Music",Arabica Music++
+http://95.170.215.109/hls/m3u8/Arabica-Backup.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://mazzikagroup.com/wp-content/uploads/2020/03/8-e1576343995678.png" tvg-country="" tvg-url="" group-title="Music",Mazzika+
+http://95.170.215.109/hls/m3u8/Mazzika-Backup.m3u8
 
 
 #EXTINF:-1 group-title="Lebanon",▁ ▂ ▄ ▅ ▆☆ Lebanon ☆▆ ▅ ▄ ▂ ▁
@@ -1344,6 +1351,9 @@ http://livecdnh2.tvanywhere.ae/hls/mbc3/05.m3u8
 http://livecdnh2.tvanywhere.ae/hls/spacetoon/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.wataan.com/uploads/14112016-021101AM.png" tvg-country="LB" tvg-url="" group-title="Kids",Cartoon Network Arabia
 http://95.170.215.109/hls/m3u8/CNArabica-Backup.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png?v=3" tvg-country="LB" tvg-url="" group-title="Kids",Rotana Kids
+https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="TeleToonPlus FR" tvg-name="TeleToonPlus FR" tvg-language="French" tvg-logo="https://i.imgur.com/dtHaTAy.png" group-title="Kids",TéléToon+
 http://144.217.253.140/Teletoon/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Kids",Duck TV
@@ -1507,7 +1517,6 @@ http://46.60.1.82:8081/live/Majid.Kids.TV/playlist.m3u8
 http://95.170.215.109/hls/m3u8/Majid-Backup.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/wOxnItQ.png" tvg-country="LB" tvg-url="" group-title="Kids",Taha+
 http://95.170.215.109/hls/m3u8/TAHA-Backup.m3u8
-
 #EXTINF:-1 group-title="Sport",▁ ▂ ▄ ▅ ▆☆ Sport ☆▆ ▅ ▄ ▂ ▁
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 1

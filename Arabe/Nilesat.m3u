@@ -394,18 +394,18 @@ http://adtv.ercdn.net/adalemarat/adalemarat.m3u8
 #EXTINF:-1 group-title="Qatar",▁ ▂ ▄ ▅ ▆☆ Qatar ☆▆ ▅ ▄ ▂ ▁
 
 #EXTINF:-1 tvg-id="Al Rayan ARB" tvg-name="Al Rayan ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uQMoKXn.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Qatar",Al Rayyan
-https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist_1080p.m3u8
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyanpublish/alrayyan/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/mVwHGbc.png" tvg-country="QA" tvg-url="" group-title="Qatar",Al Rayyan Al Qadeem
-https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeem_chunks.m3u8
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeempublich/alrayyanqadeem/chunks.m3u8
 #EXTINF:-1 tvg-id="Qatar" tvg-name="Qatar" tvg-language="Arabic" tvg-logo="http://www.qtv.qa/assets/images/logos/qtv.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Qatar",Qatar TV HD
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_500130.m3u8
-
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/master720p.m3u8
 #EXTINF:-1 tvg-id="Qatar Education 1" tvg-name="Qatar Education 1" tvg-language="Arabic" tvg-logo="http://www.qtv.qa/assets/images/logos/qtvEdu1.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Qatar",Qatar Education 1
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_500230.m3u8
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/index30.m3u8
 #EXTINF:-1 tvg-id="Qatar Education 2" tvg-name="Qatar Education 2" tvg-language="Arabic" tvg-logo="http://www.qtv.qa/assets/images/logos/qtvEdu2.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Qatar",Qatar Education 2
-http://qtv-i.akamaihd.net/hls/live/213233/QTV/s_500330.m3u8
-#EXTINF:-1 tvg-id="Al Rayan ARB" tvg-name="Al Rayan ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/uQMoKXn.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Qatar",Al Rayyan+
-https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/alrayyan_chunks.m3u8
+http://qtv-i.akamaihd.net/hls/live/213233/QTV/playlist30.m3u8
+
+#EXTINF:-1 tvg-id="Qatar" tvg-name="Qatar" tvg-language="Arabic" tvg-logo="http://www.qtv.qa/assets/images/logos/qtv.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Qatar",Qatar TV HD+
+http://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master720p.m3u8
 
 
 #EXTINF:-1 group-title="Saudia",▁ ▂ ▄ ▅ ▆☆ Saudia ☆▆ ▅ ▄ ▂ ▁
@@ -1362,6 +1362,7 @@ http://livecdnh3.tvanywhere.ae/hls/duck/06.m3u8
 http://tahalv.cdn.octivid.com/taha/smil:taha.smil/chunklist_b850000.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv-kids-95x77.gif" tvg-country="KW" tvg-url="" group-title="Kids",KTV Kids
 https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.wataan.com/uploads/14112016-033219AM.jpg" tvg-country="KW" tvg-url="" group-title="Kids",Baraem
 http://ip.inotv.fr:8801/live/avenger/gfghjgf555h/1082.ts
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.wataan.com/uploads/14112016-041500AM.jpg" tvg-country="KW" tvg-url="" group-title="Kids",,Karameesh
@@ -1393,7 +1394,8 @@ https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/index_150_av-p.m3u8?sd=10&
 https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Kids",مكان البداية
 http://46.60.1.82:8081/live/hdmi6/playlist.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv-kids-95x77.gif" tvg-country="KW" tvg-url="" group-title="Kids",KTV Kids'
+https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids",GULLI BIL ARABIE
 http://95.170.215.118:80/hls/m3u8/Gulli-Bil-Arabie-SS-AA-.m3u8

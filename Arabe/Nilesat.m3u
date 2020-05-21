@@ -70,7 +70,7 @@ http://95.170.215.107/hls/MBC-Masr-2-Backu-M.m3u8
 #EXTINF:-1 group-title="Documentary",▁ ▂ ▄ ▅ ▆☆ Documentary ☆▆ ▅ ▄ ▂ ▁
 
 #EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" "Documentary",National Geography HD
-http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
 #EXTINF:-1 tvg-id="National Geography wild HD" tvg-name="National Geography wild HD" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/National_Geographic_Wild_logo.svg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" "Documentary",National Geography wild HD
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-id="National Geography people HD" tvg-name="National Geography people HD" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/New_NatGeo_People_logo.svg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" "Documentary",National Geography people HD ENGLISH
@@ -98,6 +98,8 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 http://livecdnh2.tvanywhere.ae/ss/nat_geo_auh.isml/Manifest?v=
 #EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR" tvg-name="National Geographic Abu Dhabi AR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" "Documentary",National Geography HD++
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8?adtv
+#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR" tvg-name="National Geographic Abu Dhabi AR" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/Nat_geo_channel_abu_dhabi.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" "Documentary",National Geography HD+++
+http://livecdnh2.tvanywhere.ae/hls/nat_geo_auh/05.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/PrXBgQG.png" tvg-country="SY" tvg-url="" group-title="Documentary",Syrian Education TV+
 http://www.elahmad.com/tv/m3u8/syriatv.m3u8?id=syria_edu
 

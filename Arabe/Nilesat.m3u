@@ -13,7 +13,7 @@ http://livecdnh3.tvanywhere.ae/hls/mbcmax/05.m3u8
 #EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"group-title="MBC",MBC ACTION HD
 http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
 #EXTINF:-1 tvg-id="MBC Drama" tvg-name="MBC Drama" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC DRAMA HD
-http://livecdnh2.tvanywhere.ae/hls/mbc_drama/05.m3u8
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
 #EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="MBC Bollywood" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"  group-title="MBC",MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 #EXTINF:-1 tvg-id="MBC Masr 1" tvg-name="MBC Masr 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"group-title="MBC",MBC MASR 1

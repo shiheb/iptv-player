@@ -1517,7 +1517,7 @@ http://www.elahmad.com/tv/m3u8/syriatv.m3u8
 #EXTINF:-1 group-title="Kids",▁ ▂ ▄ ▅ ▆☆ Kids ☆▆ ▅ ▄ ▂ ▁
 
 #EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Kids",MBC 3
-https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
+https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
 #EXTINF:-1 tvg-id="Space Toon Arabic" tvg-name="Space Toon Arabic" tvg-language="Arabic" tvg-logo="https://i.imgur.com/L42Ouau.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Kids",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1081378837_b1296000_slAR.m3u8
 

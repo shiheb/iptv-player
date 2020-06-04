@@ -32,10 +32,14 @@ Applications with support of IPTV streams.
 
 ### TV
 - https://rotana.net/live/
+- http://www.awaan.ae/live
+- https://adtv.ae/
 
 ### Important Link
 - [IPTV Checker](http://www.elahmad.com/tv/video-player.php) - http://www.elahmad.com/ M3U Online Player and checker
 - [WebGrab+Plus](http://www.webgrabplus.com/) - Multi-site incremental XMLTV EPG grabber.
+- [iptvcat](https://iptvcat.com/) - Free IPTV Lists.
+
 - [IPTV Checker](https://www.npmjs.com/package/iptv-checker) — IPTV playlists checker for Node.js
 - [Streamtest](https://streamtest.in/) - Free and easy to use web based stream tester utility.
 - [IPTV M3U Filter](https://github.com/huxuan/iptv-m3u-filter) - A script to filter IPTV m3u playlists according to customized criteria.

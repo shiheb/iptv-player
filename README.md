@@ -19,6 +19,8 @@ Applications with support of IPTV streams.
 ### Playlists
 - [Nilesat Link](https://bit.ly/3bupNK7) - Nilesat
 - [Radio Tunisie](https://bit.ly/3aneSR7) - Radio Tunisie
+- [Conan](https://bit.ly/2RsFJ7r) - Conan
+
 
 
 ### Radio

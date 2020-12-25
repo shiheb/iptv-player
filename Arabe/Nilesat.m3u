@@ -1,66 +1,73 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="MBC 1" tvg-name="MBC 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC 1 HD
-
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
 #EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC 2 HD
-
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
 #EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC 3 HD
-
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
 #EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC 4 HD
-
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-id="MBC 5" tvg-name="MBC 5" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/48/Mbc5.webp" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC 5 HD
-
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="MBC Max" tvg-name="MBC Max" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC MAX HD
-
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
 #EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC ACTION HD
-
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
 #EXTINF:-1 tvg-id="MBC Drama" tvg-name="MBC Drama" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC DRAMA HD
-
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 #EXTINF:-1 tvg-id="MBC Drama Plus" tvg-name="MBC Drama Plus" tvg-language="Arabic" tvg-logo="http://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC DRAMA PLUS HD
-
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 #EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="MBC Bollywood" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"  group-title="MBC",MBC BOLLYWOOD
-
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="MBC Masr 1" tvg-name="MBC Masr 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz"group-title="MBC",MBC MASR 1
-
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
 #EXTINF:-1 tvg-id="MBC Masr 2" tvg-name="MBC Masr 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7dQmaj6.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC MASR 2
-
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" tvg-country="IQ" tvg-url="" group-title="MBC",MBC Iraq
-
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://media.elcinema.com/tvguide/1122_1.png" tvg-country="SA" tvg-url="" group-title="ART",ART Hekayat 1
-https://p-mysat-live.ercdn.net/arthekayat/arthekayat.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://media.elcinema.com/tvguide/1182_1.png" tvg-country="SA" tvg-url="" group-title="ART",ART Hekayat 2
-https://p-mysat-live.ercdn.net/arthekayat2/arthekayat2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://media.elcinema.com/tvguide/1120_1.png" tvg-country="SA" tvg-url="" group-title="ART",ART Aflam 1
-https://p-mysat-live.ercdn.net/artaflam1/artaflam1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://media.elcinema.com/tvguide/1121_1.png" tvg-country="SA" tvg-url="" group-title="ART",ART Aflam 2
-https://p-mysat-live.ercdn.net/artaflam2/artaflam2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/ART_America.jpg" tvg-country="SA" tvg-url="" group-title="ART",ART America
-https://p-mysat-live.ercdn.net/artamerica/artamerica.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.artonline.tv/UploadImages/cinema-blue.png" tvg-country="SA" tvg-url="" group-title="ART",ART Cinema
-https://p-mysat-live.ercdn.net/artcinema/artcinema.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="SA" tvg-url="" group-title="ART",ART Movies
-https://p-mysat-live.ercdn.net/artmovies/artmovies.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/art_tarab.png" tvg-country="SA" tvg-url="" group-title="ART",ART Tarab
-https://p-mysat-live.ercdn.net/tarabtv/tarabtv.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/aa/art_variety_sa.png" tvg-country="SA" tvg-url="" group-title="ART",ART Variety
-https://p-mysat-live.ercdn.net/artvariety/artvariety.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png?v=5" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana Comedy
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bHz4QYC.png" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana Classic
-
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZMXEFd1.png" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana cinema
-
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/niDVfYR.png" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana masrya drama
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/a23fI0c.png" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana khalijiah
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana Cinema HD KSA
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana Drama HD
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana+
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qOrO9PO.jpg" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana Clip
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/N4AyK2U.png" tvg-country="SA" tvg-url="" group-title="Rotana",Rotana Music
-
+https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
 
 #EXTINF:-1 group-title="Documentary",▁ ▂ ▄ ▅ ▆☆ Documentary ☆▆ ▅ ▄ ▂ ▁
 
@@ -188,19 +195,19 @@ http://watantv.origin.technostreaming.net:8081/watantv_source2/live/playlist.m3u
 #EXTINF:-1 group-title="Movies&Series",▁ ▂ ▄ ▅ ▆☆ Movies&Series ☆▆ ▅ ▄ ▂ ▁
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://media.elcinema.com/tvguide/1122_1.png" tvg-country="SA" tvg-url="" group-title="Movies&Series",ART Hekayat 1
-https://p-mysat-live.ercdn.net/arthekayat/arthekayat.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://media.elcinema.com/tvguide/1182_1.png" tvg-country="SA" tvg-url="" group-title="Movies&Series",ART Hekayat 2
-https://p-mysat-live.ercdn.net/arthekayat2/arthekayat2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://media.elcinema.com/tvguide/1120_1.png" tvg-country="SA" tvg-url="" group-title="Movies&Series",ART Aflam 1
-https://p-mysat-live.ercdn.net/artaflam1/artaflam1.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://media.elcinema.com/tvguide/1121_1.png" tvg-country="SA" tvg-url="" group-title="Movies&Series",ART Aflam 2
-https://p-mysat-live.ercdn.net/artaflam2/artaflam2.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/33/ART_America.jpg" tvg-country="SA" tvg-url="" group-title="Movies&Series",ART America
-https://p-mysat-live.ercdn.net/artamerica/artamerica.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.artonline.tv/UploadImages/cinema-blue.png" tvg-country="SA" tvg-url="" group-title="Movies&Series",ART Cinema
-https://p-mysat-live.ercdn.net/artcinema/artcinema.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="SA" tvg-url="" group-title="Movies&Series",ART Movies
-https://p-mysat-live.ercdn.net/artmovies/artmovies.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="EG" tvg-url="" group-title="Movies&Series",TokTok
 
@@ -212,21 +219,28 @@ http://178.132.3.162:88/Cairo_Cinema/video.m3u8?token=test
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bHz4QYC.png" tvg-country="SA" tvg-url="" group-title="Movies&Series",Rotana Classic
-
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ZMXEFd1.png" tvg-country="SA" tvg-url="" group-title="Movies&Series",Rotana cinema
-
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/niDVfYR.png" tvg-country="SA" tvg-url="" group-title="Movies&Series",Rotana masrya drama
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/a23fI0c.png" tvg-country="SA" tvg-url="" group-title="Movies&Series",Rotana khalijiah
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" tvg-country="SA" tvg-url="" group-title="Movies&Series",Rotana Cinema HD KSA
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png" tvg-country="SA" tvg-url="" group-title="Movies&Series",Rotana Drama HD
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
 
 #EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies&Series",MBC 2 HD
-
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
 #EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies&Series",MBC 4 HD
-
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-id="MBC Max" tvg-name="MBC Max" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies&Series",MBC MAX HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_1.m3u8
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
 #EXTINF:-1 tvg-id="MBC Action" tvg-name="MBC Action" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies&Series",MBC ACTION HD
-
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
 
 #EXTINF:-1 tvg-id="Dubai One" tvg-name="Dubai One" tvg-language="Arabic" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/5e81e67611.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies&Series",Dubai One
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
@@ -278,18 +292,18 @@ https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b40000
 http://82.137.248.16:1935/Drama/stream31122019/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MBC Drama" tvg-name="MBC Drama" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies&Series",MBC DRAMA HD
-
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
 #EXTINF:-1 tvg-id="MBC Drama Plus" tvg-name="MBC Drama Plus" tvg-language="Arabic" tvg-logo="http://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies&Series",MBC DRAMA PLUS HD
-
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
 
 #EXTINF:-1 tvg-id="MBC 5" tvg-name="MBC 5" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/4/48/Mbc5.webp" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies&Series" ,MBC 5 HD
-
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
 #EXTINF:-1 tvg-id="MBC Masr 1" tvg-name="MBC Masr 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies&Series",MBC MASR 1
-
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
 #EXTINF:-1 tvg-id="MBC Masr 2" tvg-name="MBC Masr 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7dQmaj6.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies&Series",MBC MASR 2
-
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
 #EXTINF:-1 tvg-id="MBC Bollywood" tvg-name="MBC Bollywood" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies&Series",MBC BOLLYWOOD
-https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod_1.m3u8
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" tvg-country="IQ" tvg-url="" group-title="Movies&Series",MBC Iraq
 
 
@@ -420,6 +434,10 @@ https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/alrayyanqadeem
 #EXTINF:-1 tvg-id="Qatar" tvg-name="Qatar" tvg-language="Arabic" tvg-logo="http://www.qtv.qa/assets/images/logos/qtv.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Qatar",Qatar TV HD
 http://qtv-i.akamaihd.net/hls/live/213233/QTV/master720p.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.qtv.qa/assets/images/logos/qtv.png" tvg-country="QA" tvg-url="" group-title="Qatar",Qatar TV
+https://qtv-i.akamaihd.net/hls/live/213233-b/QTV/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.qtv.qa/assets/images/logos/qtvTwo2.png" tvg-country="QA" tvg-url="" group-title="Qatar",Qatar TV 2
+https://qtv-i.akamaihd.net/hls/live/1020532/QTV2/master.m3u8
 #EXTINF:-1 tvg-id="Qatar Education 1" tvg-name="Qatar Education 1" tvg-language="Arabic" tvg-logo="http://www.qtv.qa/assets/images/logos/qtvEdu1.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Qatar",Qatar Education 1
 http://qtv-i.akamaihd.net/hls/live/213233/QTV/index30.m3u8
 #EXTINF:-1 tvg-id="Qatar Education 2" tvg-name="Qatar Education 2" tvg-language="Arabic" tvg-logo="http://www.qtv.qa/assets/images/logos/qtvEdu2.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Qatar",Qatar Education 2
@@ -456,20 +474,16 @@ http://82.212.74.100:8000/live/8130.m3u8
 http://82.212.74.100:8000/live/hls/8131.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" tvg-country="SA" tvg-url="" group-title="Saudia",Al Khalij
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="SA" tvg-url="" group-title="Saudia" group-title="Saudia",MBC FM
-https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh_1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="SA" tvg-url="" group-title="Saudia" group-title="Saudia",MBC FM+
-https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://static.tuneyou.com/images/logos/100_100/80/7880/MBCFM103.0.png" tvg-country="SA" tvg-url="" group-title="Saudia",MBC FM
-https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh.m3u8
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+
 
 #EXTINF:-1 group-title="Saudia",SBC
 
 #EXTINF:-1 group-title="Saudia",Saudi 24+
-https://www.youtube.com/watch?v=lfUCMuVVh0k
+
 #EXTINF:-1 group-title="Saudia",Saudi TV
-https://www.youtube.com/watch?v=NZL0nawCUco
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.al-khalij.tv/wp-content/uploads/2015/03/logo-1.png" tvg-country="SA" tvg-url="" group-title="Saudia",Al Khalij+
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
@@ -557,7 +571,7 @@ https://ghaasiflu.online/Dijlah/index.m3u8
 https://ghaasiflu.online/tarab/index.m3u8
 
 #EXTINF:-1 tvg-id="MBC IRAQ" tvg-name="MBC IRAQ" tvg-language="Arabic" tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" tvg-country="IQ" tvg-url="" group-title="Iraq",MBC IRAQ
-https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png" tvg-country="IQ" tvg-url="" group-title="Iraq",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://altaghier.tv/wp-content/uploads/2019/11/altaghier-tv-w.png" tvg-country="IQ" tvg-url="" group-title="Iraq",Al Taghayer
@@ -667,7 +681,7 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b2000
 #EXTINF:-1 group-title="Jordan",▁ ▂ ▄ ▅ ▆☆ Jordan ☆▆ ▅ ▄ ▂ ▁
 
 #EXTINF:-1 tvg-id="Roya TV" tvg-name="Roya TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Sa2nBTP.png" tvg-country="JO" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Jordan",Ro'ya TV
-https://roya-live.ercdn.net/roya/roya.m3u8
+https://svs.itworkscdn.net/royalive/royatv.smil/royapublish/royatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Jordan" tvg-name="Jordan" tvg-language="Arabic" tvg-logo="https://i.imgur.com/siAiiws.jpg" tvg-country="JO" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Jordan",Jordan TV
 http://stream.joinvisions.net:1935/jorlive/jrtv/chunklist_w37336481.m3u8
 
@@ -823,7 +837,9 @@ rtmp://82.212.74.3/live//7412
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/N4AyK2U.png" tvg-country="SA" tvg-url="" group-title="Music",Rotana Music
-
+https://shls-rotanamusic-prod-dub.shahid.net/out/v1/edfe0095261648908a3a931b72489f3f/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png" tvg-country="SA" tvg-url="" group-title="Music",Rotana+
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qOrO9PO.jpg" tvg-country="SA" tvg-url="" group-title="Music",Rotana Clip
 
 
@@ -847,7 +863,7 @@ http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 https://shls-wanasah-prod.shahid.net/wanasah-prod_1.m3u8
 
 #EXTINF:-1 tvg-id="Panorama FM" tvg-name="Panorama FM" tvg-language="Arabic" tvg-logo="https://shahidstatic2.akamaized.net/mediaObject/slider/Ihsan/Thumbs-4/MBC-Panorama/original/MBC-Panorama.png?height=253&width=450&croppingPoint=&version=1&type=png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Music",Panorama FM
-
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Q1Kjknl.png" tvg-country="AE" tvg-url="" group-title="Music",Eamar Music
 http://82.212.74.3:8000/live/7514.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EKGnd0S.png" tvg-country="PS" tvg-url="" group-title="Music",Audeh
@@ -1048,6 +1064,8 @@ http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
 https://593fa17dec176.streamlock.net/rasdtv/rasdtv/chunklist_w510988153.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/noG8CdZ.jpg" tvg-country="EH" tvg-url="" group-title="Morocco",RASD TV++
 https://593fa17dec176.streamlock.net/rasdtv/rasdtv/chunklist_w912740502.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/noG8CdZ.jpg" tvg-country="EH" tvg-url="" group-title="Morocco",RASD TV+++
+https://5fa4275407563.streamlock.net:455/rasdtv/rasdtv/playlist.m3u8
 
 #EXTINF:-1 group-title="News ",▁ ▂ ▄ ▅ ▆☆ News  ☆▆ ▅ ▄ ▂ ▁
 
@@ -1402,6 +1420,8 @@ http://vstream3.hadara.ps:8081/marahFM_web/web/chunks.m3u8
 http://htvpalsat.mada.ps:8888/musawa/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/bYz6HUG.png" tvg-country="PS" tvg-url="" group-title="Palestine",Palestine Mubasher
 http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EKGnd0S.png" tvg-country="PS" tvg-url="" group-title="Palestine",Orient Radio + Palestine Mubasher
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KcSgZg0.jpg" tvg-country="PS" tvg-url="" group-title="Palestine",Palestine Sattelite Channel
 http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/EKGnd0S.png" tvg-country="PS" tvg-url="" group-title="Palestine",Watar TV
@@ -1516,16 +1536,19 @@ http://www.elahmad.com/tv/m3u8/syriatv.m3u8
 
 #EXTINF:-1 group-title="Kids",▁ ▂ ▄ ▅ ▆☆ Kids ☆▆ ▅ ▄ ▂ ▁
 
-#EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Kids",MBC 3
-https://shls-mbc3-prod.shahid.net/mbc3-prod_1.m3u8
 #EXTINF:-1 tvg-id="Space Toon Arabic" tvg-name="Space Toon Arabic" tvg-language="Arabic" tvg-logo="https://i.imgur.com/L42Ouau.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Kids",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist_w1081378837_b1296000_slAR.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png?v=5" tvg-country="LB" tvg-url="" group-title="Kids",Rotana Kids
+https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_1080p/chunks.m3u8
+
+#EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Kids",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Majid Kids TV" tvg-name="Majid Kids TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RiJULAe.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Kids",Majid TV
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png?v=5" tvg-country="LB" tvg-url="" group-title="Kids",Rotana Kids
-https://rotana.hibridmedia.com/rotana/kids_dabr/rotana/kids_1080p/chunks.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.wataan.com/uploads/14112016-021101AM.png" tvg-country="LB" tvg-url="" group-title="Kids",Cartoon Network Arabia
 https://shls-cartoon-net-prod.shahid.net/cartoon-network-prod.m3u8
@@ -1573,7 +1596,10 @@ https://svs.itworkscdn.net/nour3satlive/livestream/playlist.m3u8
 http://46.60.1.82:8081/live/hdmi6/playlist.m3u8
 
 #EXTINF:-1 group-title="Kids",GULLI BIL ARABIE
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png?v=5" tvg-country="LB" tvg-url="" group-title="Kids",Rotana Kids+
+https://rotana.hibridmedia.com/rotana/kids_dabr/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/kids.png?v=5" tvg-country="LB" tvg-url="" group-title="Kids",Rotana Kids+
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="US" tvg-url="" group-title="Kids",TCT Kids
 http://bcoveliveios-i.akamaihd.net:80/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="" tvg-country="INT" tvg-url="" group-title="Kids",TOTALLY SPIES
@@ -1668,7 +1694,7 @@ http://61.58.60.230:9319/live/207.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese" tvg-logo="https://i.imgur.com/KoZMAWS.jpg" tvg-country="TW" tvg-url="" group-title="Kids",靖洋卡通
 http://61.58.60.230:9319/live/206.m3u8
 #EXTINF:-1 tvg-id="MBC 3" tvg-name="MBC 3" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Kids",MBC 3+
-
+https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" tvg-country="SY" tvg-url="" group-title="Kids",Spacetoon+
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" tvg-country="SY" tvg-url="" group-title="Kids",Spacetoon++

@@ -45,3 +45,5 @@ Applications with support of IPTV streams.
 - [IPTV Checker](https://www.npmjs.com/package/iptv-checker) — IPTV playlists checker for Node.js
 - [Streamtest](https://streamtest.in/) - Free and easy to use web based stream tester utility.
 - [IPTV M3U Filter](https://github.com/huxuan/iptv-m3u-filter) - A script to filter IPTV m3u playlists according to customized criteria.
+- [Free-IPTV](https://github.com/Free-IPTV/Countries) — IPTV playlists
+

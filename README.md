@@ -47,3 +47,10 @@ Applications with support of IPTV streams.
 - [IPTV M3U Filter](https://github.com/huxuan/iptv-m3u-filter) - A script to filter IPTV m3u playlists according to customized criteria.
 - [Free-IPTV](https://github.com/Free-IPTV/Countries) — IPTV playlists
 
+
+- Nilesat: https://bit.ly/3xji4th 
+- German 1: https://bit.ly/3wif92E
+- German 2: https://bit.ly/3yjyy4X
+- Radio Tunisie: https://bit.ly/3e12J9t
+-
+-

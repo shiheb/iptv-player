@@ -37,6 +37,7 @@ Applications with support of IPTV streams.
 - https://rotana.net/live/
 - http://www.awaan.ae/live
 - https://adtv.ae/
+- http://snrtlive.ma/
 
 ### Important Link
 - [IPTV Checker](http://www.elahmad.com/tv/video-player.php) - http://www.elahmad.com/ M3U Online Player and checker

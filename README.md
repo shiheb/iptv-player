@@ -37,6 +37,7 @@ Applications with support of IPTV streams.
 - https://rotana.net/live/
 - http://www.awaan.ae/live
 - https://adtv.ae/
+- https://sba.net.ae/
 - http://snrtlive.ma/
 - https://ok.ru/video/c1562230
 - http://lcotiv.com/lan.html

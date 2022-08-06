@@ -39,6 +39,7 @@ Applications with support of IPTV streams.
 - https://adtv.ae/
 - http://snrtlive.ma/
 - https://ok.ru/video/c1562230
+- http://lcotiv.com/lan.html
 
 ### Important Link
 - [IPTV Checker](http://www.elahmad.com/tv/video-player.php) - http://www.elahmad.com/ M3U Online Player and checker

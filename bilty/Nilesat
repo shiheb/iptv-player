@@ -1878,7 +1878,7 @@ https://edge-1192-ch-gv.filmon.com/live/1778.low.stream/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="Sharjah Sports" tvg-name="Sharjah Sports" tvg-language="Arabic" tvg-logo="https://sba.net.ae/uploads/19/Jan/24/8b55759f48ca785a912f585072744a72595253394635454452674d6e6c32.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Sharjah Sports
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Sharjahsportstv/live
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Abu Dhabi Sports 1
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports1
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 2" tvg-name="Abu Dhabi Sports 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Abu Dhabi Sports 2
@@ -1910,11 +1910,8 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3
 http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Sharjah Sports" tvg-name="Sharjah Sports" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Sharjah Sports+
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Sharjahsportstv/live
 #EXTINF:-1 tvg-id="Sharjah Sports" tvg-name="Sharjah Sports" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Sharjah Sports++
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="Sharjah Sports" tvg-name="Sharjah Sports" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Sharjah Sports+++
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8
 
 #EXTINF:-1 tvg-id="Abu Dhabi Sports 1" tvg-name="Abu Dhabi Sports" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Abu Dhabi Sports 1+
 http://46.60.1.82:8081/live/AD.SPORT.1/playlist.m3u8

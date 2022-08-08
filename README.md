@@ -55,6 +55,7 @@ Applications with support of IPTV streams.
 
 
 - Nilesat: https://bit.ly/3xji4th 
+- France: https://bit.ly/3vh8nfV
 - German 1: https://bit.ly/3wif92E
 - German 2: https://bit.ly/3yjyy4X
 - Radio Tunisie: https://bit.ly/3e12J9t

@@ -673,7 +673,8 @@ http://ns8.indexforce.com:1935/home/mystream/gmswf.m3u8
 #EXTINF:-1 group-title="Iraq",Al Fateh
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://babylontv.net/wp-content/themes/babylontv/images/logo.png" tvg-country="IQ" tvg-url="" group-title="Iraq",Babylon TV
-
+#EXTINF:-1 group-title="Iraq",ZAGROS TV 
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Alsumaria" tvg-name="Alsumaria" tvg-language="Arabic" tvg-logo="https://www.alsumaria.tv/uploadImages/ProgramsImages/Channels-LW-1-636916940695846700.png" tvg-country="IQ" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Iraq",Al Sumaria
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.ashursat.com.au/templates/js_impacto/images/logo.png" tvg-country="IQ" tvg-url="" group-title="Iraq",AshurSat
 https://5afd52b55ff79.streamlock.net/AshurSat/_definst_/myStream2022/chunklist_w651074723.m3u8
@@ -681,6 +682,9 @@ https://5afd52b55ff79.streamlock.net/AshurSat/_definst_/myStream2022/chunklist_w
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/way7KwN.jpg" tvg-country="IQ" tvg-url="" group-title="Iraq",Assyrian ANB
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Pguy19B.png" tvg-country="IQ" tvg-url="" group-title="Iraq",Dua Channel HQ
+
+#EXTINF:-1 tvg-id="NRTTV.iq" tvg-logo="https://i.imgur.com/4li5hRA.png" tvg-country="IQ" tvg-url="" group-title="Iraq",NRT TV
+https://media.streambrothers.com:1936/8226/8226/chunklist_w961393995.m3u8
 
 #EXTINF:-1 tvg-id="Kurdistan24.iq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/K24logo.png" group-title="Iraq",Kurdistan 24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
@@ -1598,8 +1602,6 @@ http://46.60.1.82:8081/live/SamaTV/playlist.m3u8
 
 #EXTINF:-1 group-title="Syria",العربي HD
 http://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="Syria",ZAGROS TV 
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RExOqfh.png" tvg-country="SY" tvg-url="" group-title="Syria",Lana TV
 https://svs.itworkscdn.net/lanatvlive/lana/playlist.m3u8
 

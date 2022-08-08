@@ -2106,7 +2106,7 @@ http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
 #EXTINF:-1 tvg-id="AlkafeelTheentranceoftheholysanctuary.iq" tvg-logo="https://i.imgur.com/ZZyr80U.png" group-title="Religion",Alkafeel: The entrance of the holy sanctuary
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8
-#EXTINF:-1 tvg-id="AlkafeelThewindowofAlKafeel.iq" tvg-logo="https://i.imgur.com/ZZyr80U.png" group-title="Religion",Alkafeel: The window of Al-Kafeel
+#EXTINF:-1 tvg-id="AlkafeelThewindowofAlKafeel.iq" tvg-logo="https://i.imgur.com/ZZyr80U.png" group-title="Religions",Alkafeel: The window of Al-Kafeel
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/assadissax2.png" tvg-country="MA" tvg-url="" group-title="Religion",Assadissa
@@ -2131,9 +2131,12 @@ https://59355e6c6462b.streamlock.net/quran/ngrp:ahul_all/playlist.m3u8
 http://en.imamhossaintv.com/live/ih301/index.m3u8
 #EXTINF:-1 group-title="Religion",IMAM HOSSAIN TV 2
 http://live.imamhossaintv.com/live/ih2.m3u8
-
+#EXTINF:-1 group-title="Religion",IMAM HOSSAIN TV 3 English
+https://live.imamhossaintv.com/live/ih3.m3u8
+#EXTINF:-1 group-title="Religion",IMAM HOSSAIN TV 4 Urdu
+https://live.imamhossaintv.com/live/ih3.m3u8
 #EXTINF:-1 group-title="Religion",CHANNEL 4 TEEN 
-https://dcunilive93-lh.akamaihd.net/i/dclive_1@835787/master.m3u8
+https://live.imamhossaintv.com/live/ih4.m3u8
 #EXTINF:-1 group-title="Religion",WESAL TV 
 http://live.noorlive.com:1935/wesal/wesal1/playlist.m3u8
 #EXTINF:-1 group-title="Religion",Okrania
@@ -2312,7 +2315,6 @@ https://5e74a9d684b2e.streamlock.net/liveTrans//channel5/chunklist_w1102475539.m
 https://5928f90056f31.streamlock.net/hidayat-live/hidayat/chunklist_w226995875.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://snrtlive.ma/sites/all/themes/snrtlive/images/assadissax2.png" tvg-country="MA" tvg-url="" group-title="Religion",Assadissa+
 http://cdn-hls.globecast.tv/live/ramdisk/assadissa/hls_snrt/index.m3u8
-
 
 #EXTINF:-1 group-title="Kurdistan",▁ ▂ ▄ ▅ ▆☆ Kurdistan ☆▆ ▅ ▄ ▂ ▁
 

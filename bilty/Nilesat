@@ -278,6 +278,17 @@ https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15c
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 #EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies&Series",MBC 2 HD
 
+#EXTINF:-1 tvg-id="Bee movies" group-title="Movies&Series",Bee movies
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=i4A1L4xW6Ns
+#EXTINF:-1 tvg-id="Bee shots" group-title="Movies&Series", Bee shots
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=uiqvy-qLRPo
+#EXTINF:-1 tvg-id="Aflam mohtarma 1" group-title="Movies&Series", Aflam mohtarma 1
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=KyCpzxAEDss
+#EXTINF:-1 tvg-id="Aflam mohtarma 2" group-title="Movies&Series", Aflam mohtarma 2
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=4yu-xmL9qTE
+#EXTINF:-1 tvg-id="Animated Short Films" group-title="Movies&Series", Animated Short Films
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ji9gR_G_5ZM
+
 #EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies&Series",MBC 4 HD[Geo-blocked]
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
 #EXTINF:-1 tvg-id="MBC Max" tvg-name="MBC Max" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies&Series",MBC MAX HD

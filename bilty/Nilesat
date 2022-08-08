@@ -1241,6 +1241,11 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/MWeuUTA.png" tvg-country="SY" tvg-url="" group-title="News",Al Khabar
 
+#EXTINF:-1 tvg-id="INews.iq" tvg-logo="https://www.lyngsat.com/logo/tv/ii/inews-iq.png" group-title="News",iNEWS 
+https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KurdsatNews.iq" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kurdsat_iq_news.png" group-title="News",KurdSat News
+https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/gXqzvLa.jpg" tvg-country="SY" tvg-url="" group-title="News",ANN
 http://ns8.indexforce.com:1935/ann/ann/playlist.m3u8
 
@@ -1376,7 +1381,6 @@ https://stream02.fasttelco.net/live/alrai.stream/chunklist_w2023460738.m3u8
 http://31.14.40.237:1935/live/Nabaa/chunklist_w2118808920.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" tvg-country="LB" tvg-url="" group-title="News",Nabaa TV+
 http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
-
 
 #EXTINF:-1 group-title="NewsW",▁ ▂ ▄ ▅ ▆☆ NewsW  ☆▆ ▅ ▄ ▂ ▁
 

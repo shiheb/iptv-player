@@ -643,8 +643,6 @@ http://82.212.74.99:8000/live/8164.m3u8
 
 
 #EXTINF:-1 group-title="Iraq",▁ ▂ ▄ ▅ ▆☆ Iraq ☆▆ ▅ ▄ ▂ ▁
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" tvg-country="IQ" tvg-url="" group-title="Iraq",Al Iraqiya Al 3ama
 
 #EXTINF:-1 group-title="Iraq",Samarra
@@ -684,6 +682,17 @@ https://5afd52b55ff79.streamlock.net/AshurSat/_definst_/myStream2022/chunklist_w
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Pguy19B.png" tvg-country="IQ" tvg-url="" group-title="Iraq",Dua Channel HQ
 
+#EXTINF:-1 tvg-id="Kurdistan24.iq" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/ff/K24logo.png" group-title="Iraq",Kurdistan 24
+https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
+#EXTINF:-1 tvg-id="KurdistanTV.iq" tvg-logo="https://i.imgur.com/GLfhYSH.png"  group-title="Iraq",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u
+#EXTINF:-1 tvg-id="Kurdsat.iq" tvg-logo="https://i.imgur.com/xMZA2NM.png"  group-title="Iraq",KurdSat
+http://ikomg2.s.llnwi.net/kurdsathd/playlist.m3u8
+#EXTINF:-1 tvg-id="KurdsatNews.iq" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kurdsat_iq_news.png" group-title="Iraq",KurdSat News
+https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
+#EXTINF:-1 tvg-id="KurdMaxMusic.iq" tvg-logo="https://kurdmaxcms.com/asset/image/footer_logo/music_2.png"  group-title="Iraq",KurdMax Music
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/kurdmaxmusic/live
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" tvg-country="IQ" tvg-url="" group-title="Iraq",Dijlah+
 http://91.134.145.75:10001/Dijlah/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" tvg-country="IQ" tvg-url="" group-title="Iraq",Dijlah++
@@ -706,7 +715,6 @@ http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8
 #EXTINF:-1 group-title="Iraq",Al Furaat
 
 #EXTINF:-1 group-title="Iraq",Houna baghdad
-
 
 
 

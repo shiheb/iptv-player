@@ -272,10 +272,12 @@ https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
 #EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies&Series",MBC 2 HD
 
-#EXTINF:-1 tvg-id="Bee movies" group-title="Movies&Series",Bee movies
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=i4A1L4xW6Ns
-#EXTINF:-1 tvg-id="Bee shots" group-title="Movies&Series", Bee shots
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=uiqvy-qLRPo
+#EXTINF:-1 tvg-id="Bee movies" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-eJ9fZC2dCgNGM1jcetVGGN5eaBWBju89maDWn=s176-c-k-c0x00ffffff-no-rj" group-title="Movies&Series",Bee movies
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg/live
+#EXTINF:-1 tvg-id="Bee shots"  tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_z4FfrWni9y2JcxJiJ3oMxlblW6rTl8Jtf_kP7=s176-c-k-c0x00ffffff-no-rj" group-title="Movies&Series", Bee shots
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCt-eWLQhENx_f_D2jTp7bqA/live
+#EXTINF:-1 tvg-id="Play Media"  tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8jNY_WGrs4Br-KmC2bz25h2y5Hnvs0p6ftLm26=s176-c-k-c0x00ffffff-no-rj" group-title="Movies&Series", Play Media
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCgeaM5qcsBhh_o0hNo5q70A/live
 #EXTINF:-1 tvg-id="Aflam mohtarma 1" group-title="Movies&Series", Aflam mohtarma 1
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=KyCpzxAEDss
 #EXTINF:-1 tvg-id="Aflam mohtarma 2" group-title="Movies&Series", Aflam mohtarma 2
@@ -2156,12 +2158,12 @@ https://radio.mosaiquefm.net/mosadj
 #EXTINF:-1 tvg-name="TN_Mosaique-Gold" tvg-id="mosaiquefm.net" group-title="TOUNSI" tvg-logo="https://tun-radio.com/files/images/46.png",TN_Mosaique-Gold
 https://radio.mosaiquefm.net/mosagold
 
-#EXTINF:-1 tvg-id="" tvg-name="Watania 1 TV" tvg-language="Arabic" tvg-logo="" tvg-country="TN" tvg-url="" group-title="TOUNSI",Watania 1 TV
+#EXTINF:-1 tvg-id="" tvg-name="Watania 1 TV" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8sZ8XMdK0bBNPpoMh1TLDNGt76HfBOiVl8TAFJHQ=s176-c-k-c0x00ffffff-no-rj" tvg-country="TN" tvg-url="" group-title="TOUNSI",Watania 1 TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/WataniaReplay/live
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="TN" tvg-url="" group-title="TOUNSI",Watania é TV
+#EXTINF:-1 tvg-id="" tvg-name="Watania 2 TV" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_CVKtww9DcL6ucDxN_uJWfZRtWafg3w7Bs3v8g1w=s176-c-k-c0x00ffffff-no-rj" tvg-country="TN" tvg-url="" group-title="TOUNSI",Watania 2 TV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Watania2Replay/live
 
-#EXTINF:-1 tvg-id="" tvg-name="Watania 2 TV" tvg-language="Arabic" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" tvg-country="TN" tvg-url="" group-title="TOUNSI",Sahel TV
+#EXTINF:-1 tvg-id="" tvg-name="Sahel TV" tvg-language="Arabic" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" tvg-country="TN" tvg-url="" group-title="TOUNSI",Sahel TV
 https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w1556140460.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cZM2t0P.png" tvg-country="TN" tvg-url="" group-title="TOUNSI",Tunisie Immobilier

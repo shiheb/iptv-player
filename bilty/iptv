@@ -1711,9 +1711,9 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
 #EXTINF:-1 group-title="Sport",▁ ▂ ▄ ▅ ▆☆ Sport ☆▆ ▅ ▄ ▂ ▁
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 1
-https://liveb.alkassdigital.net/hls/live/2094545/Alkass1a/master1080.m3u8
+https://livebs.alkassdigital.net/hls/live/2094545/Alkass1/Alkass1Gai/Alkass1_1080/hdntl=exp=1662454712~acl=%2f*~data=hdntl~hmac=27f5d95bd297fbb3da2dbf71825ac192f6f5c73b23778753dc4d7ead24164b47/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 2
-https://liveb.alkassdigital.net/hls/live/2094545/Alkass2ba/master1080.m3u8
+https://livebs.alkassdigital.net/hls/live/2094545/Alkass2/Alkass2Gazc/Alkass2_1080/hdntl=exp=1662454767~acl=%2f*~data=hdntl~hmac=0c93f1159665217b7fa962dbdc88e186e0598225c792136b512a20dc88860c90/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 3
 https://streamalkass.azureedge.net/4d2d4f2c-f860-4c80-8836-11e1063f1d08/Alkass3z.ism/QualityLevels(5500000)/Manifest(video,format=m3u8-cmaf)
 
@@ -1771,6 +1771,8 @@ http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3
 #EXTINF:-1 tvg-id="Dubai Racing 3" tvg-name="Dubai Racing 3" tvg-language="Arabic" tvg-logo="http://admango.cdn.mangomolo.com/analytics/uploads/71/5bfea86c98.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Dubai Racing 3
 http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TennisChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/512px-Tennis_Channel_logo.svg.png" group-title="Sport",Tennis Channel (UK)
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Jordan Sports" tvg-name="Jordan Sports" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Plcqlr7.jpg" tvg-country="JO" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Jordan Sport TV
 http://stream.joinvisions.net:1935/jorlive/sport/chunklist.m3u8
@@ -1797,7 +1799,10 @@ http://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/chunklist_b4500
 #EXTINF:-1 tvg-language="Arabic"  tvg-logo="http://www.aflam4you.tv/uploads/thumbs/107-1.jpg" group-title="Sport",Iraqia Sport
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 3+
+https://liveaks.alkassdigital.net/livehttporigin/smil:YWxrYXNh3.smil/hdntl=exp=1662454843~acl=%2f*~data=hdntl~hmac=58c9a60efd780e9bd1935a0b39125a3e6c8e3574f6c683fb95f0ed29816f66dc/chunklist_b5128000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Sports 4+
+https://liveaks.alkassdigital.net/livehttporigin/smil:YWxrYXNh4.smil/hdntl=exp=1662454875~acl=%2f*~data=hdntl~hmac=11292aaed87398223fcbe191fcf4a2a4e5c33b329586f7bcd66de0f22210d04f/chunklist_b4128000_sleng.m3u8
 
 #EXTINF:-1 tvg-id="Sharjah Sports" tvg-name="Sharjah Sports" tvg-language="Arabic" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Sharjah Sports+
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Sharjahsportstv/live

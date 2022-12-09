@@ -2193,6 +2193,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Radio
 #EXTINF:-1 tvg-id="TunisnaTV.tn" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tunisna-tv-tn.png" group-title="TOUNSI",Tunisna TV
 http://streaming.tunisna.tv:1935/live/tunisna/playlist.m3u8
 
+#EXTINF:-1 tvg-id="nessma.tn" tvg-logo="g" group-title="TOUNSI",Nessma TV
+https://stream-04.dc3.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZYBCiiX7R7kuXJ-Ykjio92OOdhn2_z_bW0ryAq6p7eBB)/dm/3/x7va0xb/s/live-3.m3u8
+
 #EXTINF:-1 tvg-id="TunisnaTV.tn" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tunisna-tv-tn.png" group-title="TOUNSI",El Hiwar Ettounsi
 http://217.182.137.206/elhiwar.m3u8
 

@@ -153,9 +153,10 @@ http://livestreaming5.onlinehorizons.net/hls-live/NTNNileCinema/_definst_/liveev
 
 
 #EXTINF:-1 tvg-id="CBC" tvg-name="CBC" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VZmLIY2.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Egypt",CBC
-https://www.youtube.com/c/cbcstream/live
+plugin://plugin.video.youtube/play/?video_id=2pxXHaFoftQ
 #EXTINF:-1 tvg-id="CBC Extra" tvg-name="CBC Extra" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VW5Qk23.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Egypt",CBC Extra
-https://www.youtube.com/channel/UC65F33K2cXk9hGDbOQYhTOw/live
+plugin://plugin.video.youtube/play/?video_id=87aU3B6L-9s
+
 #EXTINF:-1 tvg-id="ElsharqTV.eg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/El_Sharq_New_Logo.png/512px-El_Sharq_New_Logo.png" group-title="Egypt",Elsharq TV (1080p) [Not 24/7]
 https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CBC Drama" tvg-name="CBC Drama" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VW5Qk23.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Egypt",CBC Drama

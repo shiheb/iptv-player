@@ -2162,12 +2162,12 @@ https://radio.mosaiquefm.net/mosagold
 #EXTINF:-1 tvg-id="" tvg-name="Watania 1 TV" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8sZ8XMdK0bBNPpoMh1TLDNGt76HfBOiVl8TAFJHQ=s176-c-k-c0x00ffffff-no-rj" tvg-country="TN" tvg-url="" group-title="TOUNSI",Watania 1 TV
 http://live.watania1.tn:1935/live/watanya1.stream/chunklist_w500633858.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Watania 1 TV" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8sZ8XMdK0bBNPpoMh1TLDNGt76HfBOiVl8TAFJHQ=s176-c-k-c0x00ffffff-no-rj" tvg-country="TN" tvg-url="" group-title="TOUNSI",Watania 1 TV
+#EXTINF:-1 tvg-id="" tvg-name="Watania 1 TV" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8sZ8XMdK0bBNPpoMh1TLDNGt76HfBOiVl8TAFJHQ=s176-c-k-c0x00ffffff-no-rj" tvg-country="TN" tvg-url="" group-title="TOUNSI",Watania 1 TV+
 plugin://plugin.video.youtube/play/?video_id=lm89pfLzYms
 
-#EXTINF:-1 tvg-id="" tvg-name="Watania 2 TV" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_CVKtww9DcL6ucDxN_uJWfZRtWafg3w7Bs3v8g1w=s176-c-k-c0x00ffffff-no-rj" tvg-country="TN" tvg-url="" group-title="TOUNSI",Watania 2 T
-http://live.watania2.tn:1935/live/watanya2.stream/chunklist_w273574528.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Watania 2 TV" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_CVKtww9DcL6ucDxN_uJWfZRtWafg3w7Bs3v8g1w=s176-c-k-c0x00ffffff-no-rj" tvg-country="TN" tvg-url="" group-title="TOUNSI",Watania 2 TV
+http://live.watania2.tn:1935/live/watanya2.stream/chunklist_w273574528.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Watania 2 TV" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_CVKtww9DcL6ucDxN_uJWfZRtWafg3w7Bs3v8g1w=s176-c-k-c0x00ffffff-no-rj" tvg-country="TN" tvg-url="" group-title="TOUNSI",Watania 2 TV+
 plugin://plugin.video.youtube/play/?video_id=ESx6vjEPcLU
 
 #EXTINF:-1 tvg-id="" tvg-name="Sahel TV" tvg-language="Arabic" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" tvg-country="TN" tvg-url="" group-title="TOUNSI",Sahel TV

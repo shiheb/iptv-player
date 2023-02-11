@@ -183,17 +183,16 @@ http://media6.smc-host.com:1935/omgchannel.net/omgseries/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Panorama Film" tvg-language="Arabic" tvg-logo="" tvg-country="EG" tvg-url="" group-title="Egypt",Panorama Film
 
 #EXTINF:-1 tvg-id="Al Kahera Wal Nass 1" tvg-name="Al Kahera Wal Nass 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8vSNskY.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Egypt",Al Kahera Wal Nas
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=kGIQMgz-ZSY
+plugin://plugin.video.youtube/play/?video_id=ZbqyTyS1o0M
 #EXTINF:-1 tvg-id="Al Kahera Wal Nass 2" tvg-name="Al Kahera Wal Nass 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8vSNskY.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Egypt",Al Kahera Wal Nas 2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/AlKaheraWalNas/live
-
+plugin://plugin.video.youtube/play/?video_id=GdKbHsjZW0w
 #EXTINF:-1 tvg-id="SadaElbalad.eg" tvg-name="Sada Elbalad" tvg-logo="https://i.imgur.com/jji89E5.png" group-title="Egypt",Sada Elbalad
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/elbaladtv
+plugin://plugin.video.twitch/play/?video_id=elbaladtv
 #EXTINF:-1 tvg-id="SadaElbalad.eg" tvg-name="Sada Elbalad 2" tvg-logo="https://i.imgur.com/jji89E5.png" group-title="Egypt",Sada Elbalad 2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/elbaladtv2
+plugin://plugin.video.twitch/play/?video_id=elbaladtv2
 
 #EXTINF:-1 tvg-id="Al Ghad TV" tvg-name="Al Ghad TV" tvg-language="Arabic" tvg-logo="" tvg-country="EG" tvg-url="" group-title="Egypt",Al Ghad TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/alghadtv/live
+plugin://plugin.video.youtube/play/?video_id=eeScmS3jW8U
 #EXTINF:-1 tvg-id="Ten TV" tvg-name="Ten TV" tvg-language="Arabic" tvg-logo="" tvg-country="EG" tvg-url="" group-title="Egypt",Ten TV
 https://weyyak-live.akamaized.net/weyyak_ten_tv/tracks-v1a1/mono.m3u8
 
@@ -274,17 +273,17 @@ https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe
 #EXTINF:-1 tvg-id="MBC 2" tvg-name="MBC 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies&Series",MBC 2 HD
 
 #EXTINF:-1 tvg-id="Bee movies" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu-eJ9fZC2dCgNGM1jcetVGGN5eaBWBju89maDWn=s176-c-k-c0x00ffffff-no-rj" group-title="Movies&Series",Bee movies
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuaMJTqQ_W7qztqZ_zyErJg/live
+plugin://plugin.video.youtube/play/?video_id=DbGpCry_gMA
 #EXTINF:-1 tvg-id="Bee shots"  tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_z4FfrWni9y2JcxJiJ3oMxlblW6rTl8Jtf_kP7=s176-c-k-c0x00ffffff-no-rj" group-title="Movies&Series", Bee shots
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCt-eWLQhENx_f_D2jTp7bqA/live
+
 #EXTINF:-1 tvg-id="Play Media"  tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8jNY_WGrs4Br-KmC2bz25h2y5Hnvs0p6ftLm26=s176-c-k-c0x00ffffff-no-rj" group-title="Movies&Series", Play Media
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCgeaM5qcsBhh_o0hNo5q70A/live
+plugin://plugin.video.youtube/play/?video_id=n56yrKM_kMg
 #EXTINF:-1 tvg-id="Aflam mohtarma 1" group-title="Movies&Series", Aflam mohtarma 1
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=KyCpzxAEDss
+
 #EXTINF:-1 tvg-id="Aflam mohtarma 2" group-title="Movies&Series", Aflam mohtarma 2
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=4yu-xmL9qTE
+
 #EXTINF:-1 tvg-id="Animated Short Films" group-title="Movies&Series", Animated Short Films
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ji9gR_G_5ZM
+plugin://plugin.video.youtube/play/?video_id=ji9gR_G_5ZM
 
 #EXTINF:-1 tvg-id="MBC 4" tvg-name="MBC 4" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies&Series",MBC 4 HD[Geo-blocked]
 https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
@@ -709,7 +708,7 @@ http://ikomg2.s.llnwi.net/kurdsathd/playlist.m3u8
 #EXTINF:-1 tvg-id="KurdsatNews.iq" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kurdsat_iq_news.png" group-title="Iraq",KurdSat News
 https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
 #EXTINF:-1 tvg-id="KurdMaxMusic.iq" tvg-logo="https://kurdmaxcms.com/asset/image/footer_logo/music_2.png"  group-title="Iraq",KurdMax Music
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/kurdmaxmusic/live
+plugin://plugin.video.youtube/play/?video_id=36cKkErfOGQ
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" tvg-country="IQ" tvg-url="" group-title="Iraq",Dijlah+
 http://91.134.145.75:10001/Dijlah/index.m3u8
@@ -822,8 +821,7 @@ http://82.212.74.5:8000/live/hls/7727.m3u8
 https://master.starmena-cloud.com/hls/libyas.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/WI5hSK1.png" tvg-country="LY" tvg-url="" group-title="Libya",Al Tanasuh TV 
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCRaoHR6b3zViY9QxfgFNntQ/live
-
+plugin://plugin.video.youtube/play/?video_id=9SZ65R9GzdY
 #EXTINF:-1 tvg-id="FebruaryChannel.ly" group-title="Libya",February TV
 https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8
 
@@ -920,10 +918,9 @@ http://82.212.74.3:8000/live/7512.m3u8
 http://82.212.74.98:8000/live/hls/7726.m3u8
 
 #EXTINF:-1 tvg-id="BelqeesTV.ye" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Belqees_TV_log.png" group-title="Yemen",Belqees TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCxA_zZwALQMmVMSZyLKC-Nw/live
-
+plugin://plugin.video.youtube/play/?video_id=sOKm9nlJuHo
 #EXTINF:-1 tvg-id="HadramoutTV.ye" tvg-logo="https://i.imgur.com/i8TjKpC.png" group-title="Yemen",Hadramout
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/hadhramauttv1
+plugin://plugin.video.twitch/play/?video_id=hadhramauttv1
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/poHvbNV.jpg" tvg-country="YE" tvg-url="" group-title="Yemen",Al Masirah+
 https://svs.itworkscdn.net/almasiralive/almasira.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.alghadye.com/wp-content/uploads/2018/07/image1.png" tvg-country="YE" tvg-url="" group-title="Yemen",Al Ghad Almoshrek+
@@ -968,8 +965,7 @@ https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a
 #EXTINF:-1 tvg-id="NojoumTV.jo" tvg-logo="https://i.imgur.com/6ttWNu0.jpg" group-title="Music",Nojoum TV
 https://nojoumhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="MarinaTV.kw" tvg-logo="https://content.osn.com/logo/channel/cropped/MRN.png" group-title="Music",Marina TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/marinai/live
-
+plugin://plugin.video.youtube/play/?video_id=PFqNsuDAnLk
 #EXTINF:-1 group-title="Music",MUSIC ALREMAS 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" tvg-country="IQ" tvg-url="" group-title="Music",Dijlah Tarab
@@ -1228,7 +1224,7 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC Arabic" tvg-name="BBC Arabic" tvg-language="Arabic" tvg-logo="https://i.imgur.com/oFGPG9Y.png" tvg-country="UK" tvg-url="http://195.154.221.171/epg/guideuk.xml.gz" group-title="News",BBC Arabic
 https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_cloudfrontms_live.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-country="FR" tvg-url="" group-title="News",France 24 Arabic
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24Arabic/live
+plugin://plugin.video.youtube/play/?video_id=8BZpOolYLUA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LGjZIWL.png" tvg-country="DE" tvg-url="" group-title="News",DW Arabia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LNI1HNi.png" tvg-country="UK" tvg-url="" group-title="News",Al Araby
@@ -1270,7 +1266,7 @@ https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="News",Al-Alam
 https://live2.alalam.ir/alalam.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RxfBIwt.png" tvg-country="EG" tvg-url="" group-title="News",Extra News
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC65F33K2cXk9hGDbOQYhTOw/live
+plugin://plugin.video.youtube/play/?video_id=_QlXXXA8Vd8
 #EXTINF:-1 group-title="News",Al Khalij TV 
 http://mn-nl.mncdn.com/khalij/khalij/chunklist.m3u8
 #EXTINF:-1 group-title="News",AL MAMLAKA TV Jordan
@@ -1314,8 +1310,7 @@ https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifes
 
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/xBcBG2z.png" tvg-country="SY" tvg-url="" group-title="News",Halab Today TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCnh5Faqn_r9HxeNd_dsvGHQ/live
-
+plugin://plugin.video.youtube/play/?video_id=QAmrG4APbDY
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/c71ePvj.png" tvg-country="TR" tvg-url="" group-title="News",Alqanat 9 TV
 https://cdn.bestream.io:19360/alqanat9/alqanat9-252848.ts
@@ -2165,10 +2160,15 @@ https://radio.mosaiquefm.net/mosadj
 https://radio.mosaiquefm.net/mosagold
 
 #EXTINF:-1 tvg-id="" tvg-name="Watania 1 TV" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8sZ8XMdK0bBNPpoMh1TLDNGt76HfBOiVl8TAFJHQ=s176-c-k-c0x00ffffff-no-rj" tvg-country="TN" tvg-url="" group-title="TOUNSI",Watania 1 TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/WataniaReplay/live
+http://live.watania1.tn:1935/live/watanya1.stream/chunklist_w500633858.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Watania 1 TV" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu8sZ8XMdK0bBNPpoMh1TLDNGt76HfBOiVl8TAFJHQ=s176-c-k-c0x00ffffff-no-rj" tvg-country="TN" tvg-url="" group-title="TOUNSI",Watania 1 TV
+plugin://plugin.video.youtube/play/?video_id=lm89pfLzYms
+
+#EXTINF:-1 tvg-id="" tvg-name="Watania 2 TV" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_CVKtww9DcL6ucDxN_uJWfZRtWafg3w7Bs3v8g1w=s176-c-k-c0x00ffffff-no-rj" tvg-country="TN" tvg-url="" group-title="TOUNSI",Watania 2 T
+http://live.watania2.tn:1935/live/watanya2.stream/chunklist_w273574528.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Watania 2 TV" tvg-language="Arabic" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu_CVKtww9DcL6ucDxN_uJWfZRtWafg3w7Bs3v8g1w=s176-c-k-c0x00ffffff-no-rj" tvg-country="TN" tvg-url="" group-title="TOUNSI",Watania 2 TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/Watania2Replay/live
+plugin://plugin.video.youtube/play/?video_id=ESx6vjEPcLU
 
 #EXTINF:-1 tvg-id="" tvg-name="Sahel TV" tvg-language="Arabic" tvg-logo="https://saheltv.tn/wp-content/uploads/2018/03/saheltv_logox2.png" tvg-country="TN" tvg-url="" group-title="TOUNSI",Sahel TV
 https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w1556140460.m3u8
@@ -2177,8 +2177,7 @@ https://5ac31d8a4c9af.streamlock.net/saheltv/_definst_/myStream/chunklist_w15561
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist_w59913614.m3u8
 
 #EXTINF:-1 tvg-name="TN_IFM" tvg-id="ifm.tn" tvg-logo="https://www.ifm.tn/images/logo.png" group-title="TOUNSI" ,TN_IFM TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RadioIfmTunisia/live
-
+plugin://plugin.video.youtube/play/?video_id=csBg3YR9Q98
 #EXTINF:-1 tvg-name="TN_Jawhara-WEBTV1" tvg-id="jawharafm.net" group-title="TOUNSI" tvg-logo="https://static.tuneyou.com/images/logos/100_100/18/6318/RadioJawharaFM.png",TN_Jawhara-TV
 https://streaming.toutech.net/live/jtv/index.m3u8
 
@@ -2189,13 +2188,13 @@ https://streaming.toutech.net/live/jfm/index.m3u8
 https://webcam.mosaiquefm.net:1936/mosatv/studio/chunklist_w995874393.m3u8
 
 #EXTINF:-1 tvg-name="TN_Radio-Tunisie-Nationale" tvg-id="radionationale.tn" group-title="TOUNSI" tvg-logo="http://www.radionationale.tn/wp-content/themes/mycms.1.0.0/library/images/main-logo.png",TN_Radio-Tunisie-Nationale TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/RadioNationaletunisienne/live
+plugin://plugin.video.youtube/play/?video_id=dsFOEkpCONU
 
 #EXTINF:-1 tvg-id="TunisnaTV.tn" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tunisna-tv-tn.png" group-title="TOUNSI",Tunisna TV
 http://streaming.tunisna.tv:1935/live/tunisna/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nessma.tn" tvg-logo="g" group-title="TOUNSI",Nessma TV
-https://stream-04.dc3.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZYBCiiX7R7kuXJ-Ykjio92OOdhn2_z_bW0ryAq6p7eBB)/dm/3/x7va0xb/s/live-3.m3u8
+https://stream-06.dc3.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZdvzRoOTiL49q3_pDpQXk-Q_ScEaZku2pSUnew3WY-KQ)/dm/3/x7va0xb/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="TunisnaTV.tn" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tunisna-tv-tn.png" group-title="TOUNSI",El Hiwar Ettounsi
 http://217.182.137.206/elhiwar.m3u8
@@ -2377,7 +2376,7 @@ https://s13.tntendirect.com/cherie25/live/playlist.m3u8
 #EXTINF:-1 tvg-id="CStar.fr" tvg-logo="https://i.imgur.com/EIZvJqo.png" group-title="France",CStar (360p)
 https://s13.tntendirect.com/d17/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FranceInter.fr" tvg-logo="https://i.imgur.com/PYqQyRv.png" group-title="France",France Inter (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCJldRgT_D7Am-ErRHQZ90uw/live
+plugin://plugin.video.youtube/play/?video_id=JOSEWkydSHE
 #EXTINF:-1 tvg-id="RMCDecouverte.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/b/b3/RMC_D%C3%A9couverte_logo_2017.svg/langfr-350px-RMC_D%C3%A9couverte_logo_2017.svg.png" group-title="France",RMC Découverte (720p)
 https://s13.tntendirect.com/rmcdecouverte/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SofyTV.ch" tvg-logo="https://i.imgur.com/Srxa6cR.png" group-title="France",Sofy TV (720p)
@@ -2538,6 +2537,7 @@ http://live.digiteka.com/1/RVNZMmJtUURmd09I/U0dNU0tk/hls/live/playlist.m3u8
 http://tv7.hdr-tv.com:1935/live/tv7/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="7ALimoges.fr" tvg-logo="https://i.imgur.com/3AelRxI.png" group-title="France",7ALimoges (1080p) [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCdFv_ZWQ3Xk_NfRiaK-ryGg/live
+
 #EXTINF:-1 tvg-id="P2MTV.fr" tvg-logo="https://i.imgur.com/xc8EFmb.png" group-title="France",P2M TV (268p) [Not 24/7]
 https://panel.streamparis.fr:3743/stream/play.m3u8
 
@@ -2584,39 +2584,39 @@ https://mcdn.daserste.de/daserste/de/master.m3u8
 #EXTINF:-1 tvg-id="ARD.de" tvg-name="Das Erste" tvg-language="German" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Das_Erste_HD_Logo.svg/1280px-Das_Erste_HD_Logo.svg.png" tvg-country="DE" tvg-url="" group-title="German",ARD HD
 https://derste247livede.akamaized.net/hls/live/658317/daserste_de/master.m3u8
 #EXTINF:-1 tvg-name=ARD-alpha tvg-id=ARD-alpha.de tvg-logo=http://logos.zattic.com/images/channels/logos/e96fafec01ec632f9b38/black/84x48.png group-title="German",ARD-alpha
-https://brlive-lh.akamaihd.net/i/bralpha_germany@119899/master.m3u8
+https://mcdn.br.de/br/fs/ard_alpha/hls/de/master_960p_1600.m3u8
 #EXTINF:-1 tvg-name=ONE HD tvg-id=One.de tvg-logo=http://logos.zattic.com/images/channels/logos/7490dbd81ca7b22871f5/black/84x48.png group-title="German",ONE HD
-https://onelivestream-lh.akamaihd.net/i/one_livestream@568814/master.m3u8
+https://mcdn.one.ard.de/ardone/hls/master-360p-1200.m3u8
 #EXTINF:-1 tvg-name=ZDF HD tvg-id=ZDF.de tvg-logo=http://logos.zattic.com/images/channels/logos/42a29350387ee5fda8fe/black/84x48.png group-title="German",ZDF HD
 https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 #EXTINF:-1 tvg-name=ZDFinfo tvg-id=ZDFinfo.de tvg-logo=http://logos.zattic.com/images/channels/logos/bfabafc809aa7b6db677/black/84x48.png group-title="German",ZDFinfo
 https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 #EXTINF:-1 tvg-name=ARTE tvg-id=ARTE.de tvg-logo=http://logos.zattic.com/images/channels/logos/865aac6dd62f5bf74ebc/black/84x48.png group-title="German",ARTE
-https://artelive-lh.akamaihd.net/i/artelive_de@393591/master.m3u8
+https://arteliveext.akamaized.net/hls/live/2030993/artelive_de/master_v720.m3u8
 #EXTINF:-1 tvg-name=rbb Berlin tvg-id=rbbBerlin.de tvg-logo=http://logos.zattic.com/images/channels/logos/823d10599014e6b23d78/black/84x48.png group-title="German",rbb Berlin
-https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
+https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master-360p-1328.m3u8
 #EXTINF:-1 tvg-name=ZDFneo tvg-id=ZDFneo.de tvg-logo=http://logos.zattic.com/images/channels/logos/de09c10b090491ef8806/black/84x48.png group-title="German",ZDFneo
 https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 #EXTINF:-1 tvg-name=Deutsche Welle tvg-id="DeutscheWelleDE.de" group-title="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",Deutsche Welle
-https://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/master.m3u8
+https://dwamdstream108.akamaized.net/hls/live/2017969/dwstream108/stream04/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="" tvg-country="DE" tvg-url="" group-title="German",Deutsche Welle English
-https://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/master.m3u8
+https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/stream01/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-country="DE" tvg-url="" group-title="German",Deutsche Welle Arabic
-https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+https://dwamdstream108.akamaized.net/hls/live/2017969/dwstream108/stream03/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="German" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-country="DE" tvg-url="" group-title="German",Deutsche Welle Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/stream02/streamPlaylist.m3u88
 #EXTINF:-1 tvg-name="tagesschau24" tvg-id="tagesschau24.de" group-title="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tagesschau24.png",tagesschau24
-https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+https://tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master-720p-3328.m3u8
 #EXTINF:-1 tvg-name="WELT" tvg-id="n24.de" group-title="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT
-http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8
+https://broadcast.welt.personalstream.tv/v1/manifest/e237d596efe8bf8a700f8f91f1de8bbe03e0fe29/welttv-broadcast-prod/5db2644a-bca0-4425-91d5-b46c477fcd04/6.m3u8
 #EXTINF:-1 tvg-name="MTV Germany" tvg-id="MTVGermany.de" group-title="German" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/mtvgermany.png",MTV Germany
-http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/mtvg18ef/master/master_5000.m3u8
 #EXTINF:-1 tvg-name=3Sat tvg-id=3sat.de tvg-logo=http://logos.zattic.com/images/channels/logos/02257e2400c10df8cbab/black/84x48.png group-title="German",3Sat
 https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 #EXTINF:-1 tvg-name=ServusTV HD tvg-id=ServusHD.de tvg-logo=http://logos.zattic.com/images/channels/logos/bd9d0bcc49c2b74017ad/black/84x48.png group-title="German",ServusTV HD
-https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8
+https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_3392.m3u8
 #EXTINF:-1 tvg-name=Radio Bremen TV HD tvg-id=RadioBremen.de tvg-logo=https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rbtv.png group-title="German",Radio Bremen TV HD
-https://rbfs-lh.akamaihd.net/i/rb_fs@438960/master.m3u8
+https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master-720p-3200.m3u8
 #EXTINF:-1 tvg-name=NDR Niedersachsen tvg-id=ndr.de tvg-logo=http://logos.zattic.com/images/channels/logos/29a7c6a23050e3820a3b/black/84x48.png group-title="German",NDR Niedersachsen
 https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8?set-segment-duration=responsive
 #EXTINF:-1 tvg-name=WDR Koeln tvg-id=WDR.de tvg-logo=http://logos.zattic.com/images/channels/logos/da2f7b1155f1c2586f93/black/84x48.png group-title="German",WDR Koeln

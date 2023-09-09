@@ -4,9 +4,6 @@
 #EXTINF:-1 tvg-name="TN_IFM" tvg-id="ifm.tn" tvg-logo="https://www.ifm.tn/images/logo.png" group-title="TOUNSI",TN_IFM
 https://live.ifm.tn/radio/8000/ifmlive
 
-#EXTINF:-1 tvg-name="TN_IFM Rires et chonsons" tvg-id="ifm.tn" tvg-logo="https://www.ifm.tn/uploads/1/2020-04/39e297342865f5727542b73e31512703.png" group-title="TOUNSI",TN_IFM-Rires-et-chonsons
-https://live.ifm.tn/radio/8010/ifmweb1?1586535034
-
 #EXTINF:-1 tvg-name="TN_Jawhara-FM" tvg-id="jawharafm.net" group-title="TOUNSI" tvg-logo="https://static.tuneyou.com/images/logos/100_100/18/6318/RadioJawharaFM.png",TN_Jawhara-FM
 http://streaming2.toutech.net:8000/jawharafm
 

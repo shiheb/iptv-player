@@ -23,7 +23,7 @@ https://radio.mosaiquefm.net/mosadj
 https://radio.mosaiquefm.net/mosagold
 
 #EXTINF:-1 tvg-name="TN_Diwan-FM" tvg-id="diwanfm.net" group-title="TOUNSI" tvg-logo="https://www.diwanfm.net/template/images/logo.png",TN_Diwan-FM
-http://stream6.tanitweb.com/diwanfm
+https://streaming.diwanfm.net/stream
 
 #EXTINF:-1 tvg-name="TN_Radio-Orient" tvg-id="radioorient.com" group-title="TOUNSI" tvg-logo="https://ecouter.lesindesradios.fr/logos/orange111.png",TN_Radio-Orient
 http://stream3.broadcast-associes.com:8405/Radio-Orient

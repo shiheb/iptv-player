@@ -51,7 +51,7 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 #EXTINF:-1 tvg-id="MBCPersia.ae" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/MBC_Persia.jpg" tvg-country="AE" group-title="MBC",MBC Persia (1080p) 
 https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 
-#EXTINF:-1 tvg-id="MBCFM.ae" tvg-logo="https://i.imgur.com/lF8UxvR.png" group-title="General" tvg-country="AE" group-title="MBC",MBC FM (1080p)
+#EXTINF:-1 tvg-id="MBCFM.ae" tvg-logo="https://i.imgur.com/lF8UxvR.png" group-title="MBC" tvg-country="AE" group-title="MBC",MBC FM (1080p)
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://media.elcinema.com/tvguide/1122_1.png" tvg-country="SA" tvg-url="" group-title="ART",ART Hekayat 1
 
@@ -2229,7 +2229,7 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747613/747613/source1_4k/chunklis
 
 
 
-#EXTINF:-1 group-title="Tunisia",▁ ▂ ▄ ▅ ▆☆ Tunisia ☆▆ ▅ ▄ ▂ ▁
+#EXTINF:-1 group-title="TOUNSI",▁ ▂ ▄ ▅ ▆☆ Tunisia ☆▆ ▅ ▄ ▂ ▁
 
 #EXTINF:-1 tvg-name="TN_IFM" tvg-id="ifm.tn" tvg-logo="https://www.ifm.tn/images/logo.png" group-title="TOUNSI",TN_IFM
 https://live.ifm.tn/radio/8000/ifmlive
@@ -2244,8 +2244,7 @@ http://radio.mosaiquefm.net:8000/mosalive
 https://streaming.diwanfm.net/stream
 
 #EXTINF:-1 tvg-name="TN_Misk-FM" tvg-id="misk.art" group-title="TOUNSI" tvg-logo="https://tun-radio.com/files/images/81.png",TN_Misk-FM
-http://live.misk.tn:8000/stream
-
+http://live.misk.art:8000/stream
 #EXTINF:-1 tvg-name="TN_Mosaique-Tarab" tvg-id="mosaiquefm.net" group-title="TOUNSI" tvg-logo="https://tun-radio.com/files/images/47.png",TN_Mosaique-Tarab
 https://radio.mosaiquefm.net/mosatarab
 

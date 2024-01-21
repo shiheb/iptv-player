@@ -40,6 +40,7 @@ Applications with support of IPTV streams.
 - https://sba.net.ae/
 - https://www.aloula.sa/live/
 - http://snrtlive.ma/
+- https://www.jrtv.gov.jo/
 - https://ok.ru/video/c1562230
 - http://lcotiv.com/lan.html
 - https://www.parsatv.com/

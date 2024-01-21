@@ -125,6 +125,12 @@ http://95.216.180.111:1935/live/111/chunklist_w155690980.m3u8
 https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
 #EXTINF:-1 group-title="Documentary",Oman Documentary
 
+
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-logo="https://i.imgur.com/Czxi7yk.png" group-title="Documentary",Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="AsharqDocumentary.sa" tvg-logo="https://i.imgur.com/8tqK42D.png" group-title="Documentary",Asharq Documentary 
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+
 #EXTINF:-1 group-title="Documentary",Kayf TV
 http://82.212.74.2:8000/live/hls/7311.m3u8
 #EXTINF:-1 group-title="Documentary",Fishing And Hunt
@@ -204,6 +210,8 @@ https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Kahera Wal Nass 1" tvg-name="Al Kahera Wal Nass 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8vSNskY.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Egypt",Al Kahera Wal Nas
 plugin://plugin.video.youtube/play/?video_id=beW5BF_vfKw
 #EXTINF:-1 tvg-id="Al Kahera Wal Nass 2" tvg-name="Al Kahera Wal Nass 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8vSNskY.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Egypt",Al Kahera Wal Nas 2
+https://ythls.armelin.one/channel/UCzWdc0aUo0IDk5ysLrt04hw.m3u8
+#EXTINF:-1 tvg-id="Al Kahera Wal Nass 2" tvg-name="Al Kahera Wal Nass 2" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8vSNskY.png" tvg-country="EG" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Egypt",Al Kahera Wal Nas 2+
 plugin://plugin.video.youtube/play/?video_id=EMcvfLUKo6U
 #EXTINF:-1 tvg-id="SadaElbalad.eg" tvg-name="Sada Elbalad" tvg-logo="https://i.imgur.com/jji89E5.png" group-title="Egypt",Sada Elbalad
 plugin://plugin.video.twitch/play/?video_id=elbaladtv
@@ -790,7 +798,7 @@ https://s1.ettehadlive.com/live/10/chunklist_w1007387336.m3u8?user=sgls540839&se
 https://partneta.cdn.mgmlcdn.com/omantv/smil:omantv.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_live.png" tvg-country="OM" tvg-url="" group-title="Oman",Oman TV Mubashir
 https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/cultural.png" tvg-country="OM" tvg-url="" group-title="Oman",Oman TV Cultural
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/cultural.png" tvg-country="OM" tvg-url="" group-title="Oman;Documentary",Oman TV Cultural
 https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://part.gov.om/part/images/oman_sport.png" tvg-country="OM" tvg-url="" group-title="Oman",Oman Sport
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
@@ -940,6 +948,9 @@ http://africatv.live.net.sa:1935/live/africatv/chunklist_w913820811.m3u8
 
 
 #EXTINF:-1 group-title="Algerie",▁ ▂ ▄ ▅ ▆☆ Algerie ☆▆ ▅ ▄ ▂ ▁
+
+#EXTINF:-1 tvg-id="TV2.dz" tvg-logo="https://i.imgur.com/VEb631f.png" group-title="Algerie",Canal Algérie
+https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8
 
 #EXTINF:-1 group-title="Algerie",EL nahar Algérie
 
@@ -1310,6 +1321,10 @@ https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_ar
 plugin://plugin.video.youtube/play/?video_id=8BZpOolYLUA
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LGjZIWL.png" tvg-country="DE" tvg-url="" group-title="News",DW Arabia
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/stream05/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="ExtraLive.eg" tvg-logo="https://i.imgur.com/Cv2O0Cj.png" group-title="News",eXtra Live (1080p) [Not 24/7]
+https://ythls.armelin.one/channel/UCXw5vClfMWccw-OocfhQHiA.m3u8
+#EXTINF:-1 tvg-id="ExtraNews.eg" tvg-logo="https://i.imgur.com/9HREF7o.png" group-title="News",eXtra News (720p) [Not 24/7]
+https://ythls.armelin.one/channel/UC65F33K2cXk9hGDbOQYhTOw.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LNI1HNi.png" tvg-country="UK" tvg-url="" group-title="News",Al Araby
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="Alaraby2TV.uk" tvg-logo="https://i.imgur.com/pc0eSwY.png" group-title="News",Alaraby 2 TV
@@ -1685,19 +1700,19 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 #EXTINF:-1 tvg-id="MBC 3 EUR" tvg-name="MBC 3 EUR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Kids",MBC 3 EUR
 https://shls-mbc3-eur-prod-dub.shahid.net/out/v1/fce09dd6a967431a871efb3b8dec9f82/index.m3u8
 #EXTINF:-1 tvg-id="MBC 3 USA" tvg-name="MBC 3 USA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Kids",MBC 3 USA
-https://shls-mbc3-usa-prod.shahid.net/out/v1/f7584f50d13c4c01b0fac2be04c61c7e/index.m3u8
 
 #EXTINF:-1 tvg-id="Majid Kids TV" tvg-name="Majid Kids TV" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RiJULAe.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Kids",Majid TV
-https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8
 
 #EXTINF:-1 tvg-id="GulliBilArabi.fr" tvg-name="Gulli Bil Arabi" tvg-country="FR" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gulli-bil-arabie.png" group-title="Kids",Gulli Bil Arabi
-https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/440c8a376b2049788371a8c2916887c4/index.m3u8
+https://shls-gulli-bil-arabi-prod-dub.shahid.net/out/v1/5454d215afba410c90b233f400730958/index.m3u8
 
 #EXTINF:-1 tvg-id="GulliBilArabi.fr" tvg-name="Gulli Bil Arabi" tvg-country="FR" tvg-language="Arabic" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gulli-bil-arabie.
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://www.wataan.com/uploads/14112016-021101AM.png" tvg-country="LB" tvg-url="" group-title="Kids",Cartoon Network Arabia
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
 
-
+#EXTINF:-1 tvg-id="HalaLondonTVCartoon.uk" tvg-logo="https://i.imgur.com/bM4VZDH.png" group-title="Kids",Hala London TV Cartoon
+https://playlist.fasttvcdn.com/pl/aipomvl0iozr0ha530i0xw/Cartoon/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv-kids-95x77.gif" tvg-country="KW" tvg-url="" group-title="Kids",KTV Kids
 
 

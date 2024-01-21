@@ -43,6 +43,7 @@ Applications with support of IPTV streams.
 - https://ok.ru/video/c1562230
 - http://lcotiv.com/lan.html
 - https://www.parsatv.com/
+- https://xmys.netlify.app/live
 
 ### Important Link
 - [IPTV Checker](http://www.elahmad.com/tv/video-player.php) - http://www.elahmad.com/ M3U Online Player and checker

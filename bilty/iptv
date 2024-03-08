@@ -2,7 +2,7 @@
 #EXTM3U
 
 
-
+ƒ
 #EXTINF:-1 group-title="MBC",▁ ▂ ▄ ▅ ▆☆ MBC ☆▆ ▅ ▄ ▂ ▁
 
 #EXTINF:-1 tvg-id="MBC 1" tvg-name="MBC 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC 1 HD
@@ -2421,11 +2421,12 @@ http://streaming.tunisna.tv:1935/live/tunisna/playlist.m3u8
 https://stream-06.dc3.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZdvzRoOTiL49q3_pDpQXk-Q_ScEaZku2pSUnew3WY-KQ)/dm/3/x7va0xb/s/live-3.m3u8
 
 #EXTINF:-1 tvg-id="TunisnaTV.tn" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tunisna-tv-tn.png" group-title="TOUNSI",El Hiwar Ettounsi
-http://217.182.137.206/elhiwar.m3u8
 
 
 
 
+#EXTINF:-1 tvg-name="TN_Radio-Awledna" tvg-id="https://www.radioawledna.com/" group-title="TOUNSI" tvg-logo="https://www.radioawledna.com/wp-content/uploads/2023/06/logo-radio-awledna.png",Radio Awledna
+https://radioawledna.radioca.st/;?1709928670589
 
 #EXTINF:-1 tvg-name="TN_Radio-Orient" tvg-id="radioorient.com" group-title="TOUNSI" tvg-logo="https://ecouter.lesindesradios.fr/logos/orange111.png",Radio-Orient
 https://n35a-eu.rcs.revma.com/7hnrkawf4p8uv.mp3?rj-ttl=5&rj-tok=AAABjS1olUMAtAxKmGzlNd5pWw

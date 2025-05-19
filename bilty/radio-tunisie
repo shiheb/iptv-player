@@ -70,11 +70,12 @@ https://video1.getstreamhosting.com:1936/8320/8320/playlist.m3u8
 https://ythls.armelin.one/channel/UCvPW0VhnTcxYjWIxCvMlw2Q.m3u8
 #EXTINF:-1 tvg-name="TN_Jawhara-TV" tvg-id="jawharafm.net" group-title="TOUNSI" tvg-logo="https://static.tuneyou.com/images/logos/100_100/18/6318/RadioJawharaFM.png",TN_Jawhara-TV
 https://streaming.toutech.net/live/jtv/index.m3u8
-#EXTINF:-1 tvg-name="TN_Jawhara-WEBTV" tvg-id="jawharafm.net" group-title="TOUNSI" tvg-logo="https://static.tuneyou.com/images/logos/100_100/18/6318/RadioJawharaFM.png",TN_Jawhara-WEBTV
+#EXTINF:-1 tvg-name="TN_Jawhara-TV" tvg-id="jawharafm.net" group-title="TOUNSI" tvg-logo="https://static.tuneyou.com/images/logos/100_100/18/6318/RadioJawharaFM.png",TN_Jawhara-TV
 https://streaming.toutech.net/live/jfm/index.m3u8
 
-#EXTINF:-1 tvg-name="TN_Mosaique-WEBTV" tvg-id="mosaiquefm.net" group-title="TOUNSI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Mosaique_fm_logo.png",TN_Mosaique-FM WEB TV
-https://webcam.mosaiquefm.net:1936/mosatv/studio/chunklist_w1104251878.m3u8
+#EXTINF:-1 tvg-name="TN_Mosaique-TV" tvg-id="mosaiquefm.net" group-title="TOUNSI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Mosaique_fm_logo.png",TN_Mosaique-FM  TV
+https://cdn.live.easybroadcast.io/corp/fallback_63_mosaique-live_ri6t2jx_1080p/chunks.m3u8
+// https://cam.mosaiquefm.net:1936/mosatv/studio/chunklist_w1104251878.m3u8
 
 
 
@@ -85,13 +86,13 @@ https://radio.shemsfm.net/shems
 https://manager5.streamradio.fr:1905/stream
 
 #EXTINF:-1 tvg-name="TN_Radio-Med" tvg-id="radiomedtunisie.com" group-title="TOUNSI" tvg-logo="https://radiomedtunisie.com/wp-content/uploads/2018/08/logoblanc-radiomed.png",TN_Radio-Med
-https://stream6.tanitweb.com/radiomed
+https://stream6.tanit.com/radiomed
 
 #EXTINF:-1 tvg-name="TN_Radio-Tunisie-Nationale" tvg-id="radionationale.tn" group-title="TOUNSI" tvg-logo="http://www.radionationale.tn/wp-content/themes/mycms.1.0.0/library/images/main-logo.png",TN_Radio-Tunisie-Nationale
-http://rtstream.tanitweb.com/nationale
+http://rtstream.tanit.com/nationale
 
 #EXTINF:-1 tvg-name="TN_RTCI" tvg-id="rtci.tn" group-title="TOUNSI" tvg-logo="http://www.rtci.tn/wp-content/themes/mycms.1.0.0/library/images/main-logo.png",TN_RTCI
-http://rtstream.tanitweb.com/rtci
+http://rtstream.tanit.com/rtci
 
 #EXTINF:-1 tvg-name="TN_Radio-Jeunes" tvg-id="radiojeunes.tn" group-title="TOUNSI" tvg-logo="http://www.radiojeunes.tn/wp-content/themes/mycms.1.0.0/library/images/main-logo.png",TN_Radio-Jeunes
 http://rtstream.tanitweb.com/jeunes

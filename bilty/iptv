@@ -2322,7 +2322,7 @@ https://stream.rm-fm.net/live
 #EXTINF:-1 tvg-name="TN_Kn00z-FM" tvg-id="knoozfm.net" group-title="TOUNSI" tvg-logo="https://static.radio.de/images/broadcasts/3f/d4/34530/1/c175.png",TN_Kn00z-FM
 http://streaming.knoozfm.net:8000/knoozfm
 
-#EXTINF:-1 tvg-name="TN_CAP-FM" tvg-id="mosaiquefm.net" group-title="TOUNSI" tvg-logo="https://tun-radio.com/files/images/17.png",TN_CAP-FM
+#EXTINF:-1 tvg-name="TN_CAP-FM" tvg-id="capfm.net" group-title="TOUNSI" tvg-logo="https://tun-radio.com/files/images/17.png",TN_CAP-FM
 http://stream6.tanitweb.com/capfm
 
 #EXTINF:-1 tvg-name="TN_Express-FM" tvg-id="radioexpressfm.com" group-title="TOUNSI" tvg-logo="https://www.radioexpressfm.com/wp-content/uploads/2018/12/logo-express-fm.png",TN_Express-FM
@@ -2348,7 +2348,8 @@ https://streaming.toutech.net/live/jtv/index.m3u8
 https://streaming.toutech.net/live/jfm/index.m3u8
 
 #EXTINF:-1 tvg-name="TN_Mosaique-WEBTV" tvg-id="mosaiquefm.net" group-title="TOUNSI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Mosaique_fm_logo.png",TN_Mosaique-FM WEB TV
-https://webcam.mosaiquefm.net:1936/mosatv/studio/chunklist_w995874393.m3u8
+https://cdn.live.easybroadcast.io/corp/fallback_63_mosaique-live_ri6t2jx_1080p/chunks.m3u8
+// https://webcam.mosaiquefm.net:1936/mosatv/studio/chunklist_w995874393.m3u8
 
 
 

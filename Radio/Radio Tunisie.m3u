@@ -39,7 +39,9 @@ https://streaming.toutech.net/live/jfm/index.m3u8
 rtmp://streaming.toutech.net/live/jawharafm.sdp
 
 #EXTINF:-1 tvg-name="TN_Mosaique-WEBTV" tvg-id="mosaiquefm.net" group-title="TOUNSI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Mosaique_fm_logo.png",TN_Mosaique-FM WEB TV
-https://webcam.mosaiquefm.net:1936/mosatv/studio/chunklist_w995874393.m3u8
+https://cdn.live.easybroadcast.io/corp/fallback_63_mosaique-live_ri6t2jx_1080p/chunks.m3u8
+
+// https://webcam.mosaiquefm.net:1936/mosatv/studio/chunklist_w995874393.m3u8
 
 #EXTINF:-1 tvg-name="TN_Radio-Tunisie-Nationale" tvg-id="radionationale.tn" group-title="TOUNSI" tvg-logo="http://www.radionationale.tn/wp-content/themes/mycms.1.0.0/library/images/main-logo.png",TN_Radio-Tunisie-Nationale
 rtmp://188.165.181.186/radiotn//nationale_video

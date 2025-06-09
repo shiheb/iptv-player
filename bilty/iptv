@@ -1321,6 +1321,19 @@ https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist_w2077645987_b4500000_sl
 
 #EXTINF:-1 group-title="News ",▁ ▂ ▄ ▅ ▆☆ News  ☆▆ ▅ ▄ ▂ ▁
 
+
+#EXTINF:-1, Test Jazera Multistream
+plugin://plugin.video.youtube/channel_live/@aljazeeramubasherr/
+
+#EXTINF:-1, Test Jazera Multistream
+ plugin://plugin.video.youtube/channel/@aljazeeramubasherr/live
+
+#EXTINF:-1, Test France24 Stream
+plugin://plugin.video.youtube/channel_live/@France24_ar/
+
+#EXTINF:-1, Test France24 Stream
+ plugin://plugin.video.youtube/channel/@France24_ar/live
+
 #EXTINF:-1 group-title="News",Al Jazeera America
 
 #EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-language="English" tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="News",Al Jazeera English

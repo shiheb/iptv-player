@@ -2,7 +2,7 @@
 #EXTM3U
 
 
-ƒ
+
 #EXTINF:-1 group-title="MBC",▁ ▂ ▄ ▅ ▆☆ MBC ☆▆ ▅ ▄ ▂ ▁
 
 #EXTINF:-1 tvg-id="MBC 1" tvg-name="MBC 1" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="MBC",MBC 1 HD
@@ -1337,7 +1337,7 @@ plugin://plugin.video.youtube/channel_live/@France24_ar/
 #EXTINF:-1 group-title="News",Al Jazeera America
 
 #EXTINF:-1 tvg-id="Al Jazeera English" tvg-name="Al Jazeera English" tvg-language="English" tvg-logo="https://www.aljazeera.com/assets/images/aj-logo-lg-124.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="News",Al Jazeera English
-http://i.mjh.nz/nz/tv.46.m3u8
+
 
 #EXTINF:-1 tvg-id="Al Jazeera Arabic" tvg-name="Al Jazeera Arabic" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/0/0f/Al_Jazeera.svg" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="News",Al Jazeera Arabic
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8

@@ -1322,16 +1322,16 @@ https://www.m24tv.ma/live/smil:OutStream1.smil/chunklist_w2077645987_b4500000_sl
 #EXTINF:-1 group-title="News ",▁ ▂ ▄ ▅ ▆☆ News  ☆▆ ▅ ▄ ▂ ▁
 
 
-#EXTINF:-1, Test Jazera Multistream
+#EXTINF:-1 group-title="News", Test Jazera Multistream
 plugin://plugin.video.youtube/channel_live/@aljazeeramubasherr/
 
-#EXTINF:-1, Test Jazera Multistream
+#EXTINF:-1 group-title="News", Test Jazera Multistream
  plugin://plugin.video.youtube/channel/@aljazeeramubasherr/live
 
-#EXTINF:-1, Test France24 Stream
+#EXTINF:-1 group-title="News", Test France24 Stream
 plugin://plugin.video.youtube/channel_live/@France24_ar/
 
-#EXTINF:-1, Test France24 Stream
+#EXTINF:-1 group-title="News", Test France24 Stream
  plugin://plugin.video.youtube/channel/@France24_ar/live
 
 #EXTINF:-1 group-title="News",Al Jazeera America

@@ -2477,10 +2477,11 @@ https://stream.tun-radio.com/radio/8000/panorama_92
 
 
 #EXTINF:-1 tvg-name="TN_Mosaique-WEBTV" tvg-id="mosaiquefm.net" group-title="TOUNSI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Mosaique_fm_logo.png",TN_Mosaique-FM WEB TV+
-https://webcam.mosaiquefm.net:1936/mosatv/studio/chunklist_w1736019765.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/63_mosaique-fm_rn56tgl/corp/63_mosaique-fm_rn56tgl_1080p/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="MosaiqueFM.tn" tvg-country="TN" tvg-language="Arabic" tvg-logo="https://www.mosaiquefm.net/images/front2020/logoar.png" group-title="Music",TN_Mosaique-FM WEB TV+
-https://webcam.mosaiquefm.net:1936/mosatv/studio/playlist.m3u8
+https://cdn.live.easybroadcast.io/abr_corp/63_mosaique-fm_rn56tgl/corp/63_mosaique-fm_rn56tgl_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TN_Jawhara-WEBTV1" tvg-id="jawharafm.net" group-title="TOUNSI" tvg-logo="https://static.tuneyou.com/images/logos/100_100/18/6318/RadioJawharaFM.png",TN_Jawhara-WEBTV +
 rtmp://streaming.toutech.net/live/jawharafm.sdp

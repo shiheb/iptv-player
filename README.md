@@ -45,7 +45,7 @@ Applications with support of IPTV streams.
 - http://lcotiv.com/lan.html
 - https://www.parsatv.com/
 - https://xmys.netlify.app/live
-
+- https://github.com/akeotaseo
 ### Important Link
 - [IPTV Checker](http://www.elahmad.com/tv/video-player.php) - http://www.elahmad.com/ M3U Online Player and checker
 - [WebGrab+Plus](http://www.webgrabplus.com/) - Multi-site incremental XMLTV EPG grabber.

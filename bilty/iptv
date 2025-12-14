@@ -2361,7 +2361,6 @@ https://streaming.toutech.net/live/jtv/index.m3u8
 https://streaming.toutech.net/live/jfm/index.m3u8
 
 #EXTINF:-1 tvg-name="TN_Mosaique-WEBTV" tvg-id="mosaiquefm.net" group-title="TOUNSI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Mosaique_fm_logo.png",TN_Mosaique-FM WEB TV
-https://cdn.live.easybroadcast.io/abr_corp/63_mosaique-fm_rn56tgl/playlist.m3u8
 https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8
 // https://webcam.mosaiquefm.net:1936/mosatv/studio/chunklist_w995874393.m3u8
 
@@ -2424,7 +2423,7 @@ plugin://plugin.video.youtube/play/?video_id=ObMY8vfGdvs
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TN_Mosaique-WEBTV" tvg-id="mosaiquefm.net" group-title="TOUNSI" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/26/Mosaique_fm_logo.png",TN_Mosaique-FM WEB TV+
-https://webcam.mosaiquefm.net:1936/mosatv/studio/chunklist_w1534346757.m3u8
+https://webcam.mosaiquefm.net/mosatv/_definst_/studio/playlist.m3u8
 #EXTINF:-1 tvg-name="TN_Radio-Tunisie-Nationale" tvg-id="radionationale.tn" group-title="TOUNSI" tvg-logo="http://www.radionationale.tn/wp-content/themes/mycms.1.0.0/library/images/main-logo.png",TN_Radio-Tunisie-Nationale TV
 plugin://plugin.video.youtube/play/?video_id=dsFOEkpCONU
 
